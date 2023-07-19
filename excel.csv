@@ -1,0 +1,1426 @@
+Api,Description,Category
+AdoptAPet,Resource to help get pets adopted,Animals
+Axolotl,Collection of axolotl pictures and facts,Animals
+Cat Facts,Daily cat facts,Animals
+Cataas,Cat as a service (cats pictures and gifs),Animals
+Cats,Pictures of cats from Tumblr,Animals
+Dog Facts,Random dog facts,Animals
+Dog Facts,Random facts of Dogs,Animals
+Dogs,Based on the Stanford Dogs Dataset,Animals
+eBird,Retrieve recent or notable birding observations within a region,Animals
+FishWatch,Information and pictures about individual fish species,Animals
+HTTP Cat,Cat for every HTTP Status,Animals
+HTTP Dog,Dogs for every HTTP response status code,Animals
+IUCN,IUCN Red List of Threatened Species,Animals
+MeowFacts,Get random cat facts,Animals
+Movebank,Movement and Migration data of animals,Animals
+Petfinder,"Petfinder is dedicated to helping pets find homes, another resource to get pets adopted",Animals
+PlaceBear,Placeholder bear pictures,Animals
+PlaceDog,Placeholder Dog pictures,Animals
+PlaceKitten,Placeholder Kitten pictures,Animals
+RandomDog,Random pictures of dogs,Animals
+RandomDuck,Random pictures of ducks,Animals
+RandomFox,Random pictures of foxes,Animals
+RescueGroups,Adoption,Animals
+Shibe.Online,"Random pictures of Shiba Inu, cats or birds",Animals
+The Dog,"A public service all about Dogs, free to use when making your fancy new App, Website or Service",Animals
+xeno-canto,Bird recordings,Animals
+Zoo Animals,Facts and pictures of zoo animals,Animals
+AniAPI,"Anime discovery, streaming & syncing with trackers",Anime
+AniDB,Anime Database,Anime
+AniList,Anime discovery & tracking,Anime
+AnimeChan,Anime quotes (over 10k+),Anime
+AnimeFacts,Anime Facts (over 100+),Anime
+AnimeNewsNetwork,Anime industry news,Anime
+Catboy,"Neko images, funny GIFs & more",Anime
+Danbooru Anime,Thousands of anime artist database to find good anime art,Anime
+Jikan,Unofficial MyAnimeList API,Anime
+Kitsu,Anime discovery platform,Anime
+MangaDex,Manga Database and Community,Anime
+Mangapi,Translate manga pages from one language to another,Anime
+MyAnimeList,Anime and Manga Database and Community,Anime
+NekosBest,Neko Images & Anime roleplaying GIFs,Anime
+Shikimori,"Anime discovery, tracking, forum, rates",Anime
+Studio Ghibli,Resources from Studio Ghibli films,Anime
+Trace Moe,A useful tool to get the exact scene of an anime from a screenshot,Anime
+Waifu.im,Get waifu pictures from an archive of over 4000 images and multiple tags,Anime
+Waifu.pics,Image sharing platform for anime images,Anime
+AbuseIPDB,IP/domain/URL reputation,Anti-Malware
+AlienVault Open Threat Exchange (OTX),IP/domain/URL reputation,Anti-Malware
+CAPEsandbox,Malware execution and analysis,Anti-Malware
+Google Safe Browsing,Google Link/Domain Flagging,Anti-Malware
+MalDatabase,Provide malware datasets and threat intelligence feeds,Anti-Malware
+MalShare,Malware Archive / file sourcing,Anti-Malware
+MalwareBazaar,Collect and share malware samples,Anti-Malware
+Metacert,Metacert Link Flagging,Anti-Malware
+NoPhishy,Check links to see if they're known phishing attempts,Anti-Malware
+Phisherman,IP/domain/URL reputation,Anti-Malware
+Scanii,Simple REST API that can scan submitted documents/files for the presence of threats,Anti-Malware
+URLhaus,Bulk queries and Download Malware Samples,Anti-Malware
+URLScan.io,Scan and Analyse URLs,Anti-Malware
+VirusTotal,VirusTotal File/URL Analysis,Anti-Malware
+Web of Trust,IP/domain/URL reputation,Anti-Malware
+Améthyste,Generate images for Discord users,Art & Design
+Art Institute of Chicago,Art,Art & Design
+Colormind,Color scheme generator,Art & Design
+ColourLovers,"Get various patterns, palettes and images",Art & Design
+Cooper Hewitt,Smithsonian Design Museum,Art & Design
+Dribbble,Discover the world’s top designers & creatives,Art & Design
+EmojiHub,Get emojis by categories and groups,Art & Design
+Europeana,European Museum and Galleries content,Art & Design
+Harvard Art Museums,Art,Art & Design
+Icon Horse,"Favicons for any website, with fallbacks",Art & Design
+Iconfinder,Icons,Art & Design
+Icons8,"Icons (find ""search icon"" hyperlink in page)",Art & Design
+Lordicon,Icons with predone Animations,Art & Design
+Metropolitan Museum of Art,Met Museum of Art,Art & Design
+Noun Project,Icons,Art & Design
+PHP-Noise,Noise Background Image Generator,Art & Design
+Pixel Encounter,SVG Icon Generator,Art & Design
+Rijksmuseum,RijksMuseum Data,Art & Design
+Word Cloud,Easily create word clouds,Art & Design
+xColors,Generate & convert colors,Art & Design
+Auth0,"Easy to implement, adaptable authentication and authorization platform",Authentication & Authorization
+GetOTP,Implement OTP flow quickly,Authentication & Authorization
+Micro User Service,User management and authentication,Authentication & Authorization
+MojoAuth,Secure and modern passwordless authentication platform,Authentication & Authorization
+SAWO Labs,Simplify login and improve user experience by integrating passwordless authentication in your app,Authentication & Authorization
+Stytch,User infrastructure for modern applications,Authentication & Authorization
+Warrant,APIs for authorization and access control,Authentication & Authorization
+Bitquery,Onchain GraphQL APIs & DEX APIs,Blockchain
+Chainlink,Build hybrid smart contracts with Chainlink,Blockchain
+Chainpoint,Chainpoint is a global network for anchoring data to the Bitcoin blockchain,Blockchain
+Covalent,Multi-blockchain data aggregator platform,Blockchain
+Etherscan,Ethereum explorer API,Blockchain
+Helium,"Helium is a global, distributed network of Hotspots that create public, long-range wireless coverage",Blockchain
+Nownodes,Blockchain-as-a-service solution that provides high-quality connection via API,Blockchain
+Steem,Blockchain-based blogging and social media website,Blockchain
+The Graph,Indexing protocol for querying networks like Ethereum with GraphQL,Blockchain
+Walltime,To retrieve Walltime's market info,Blockchain
+Watchdata,Provide simple and reliable API access to Ethereum blockchain,Blockchain
+A Bíblia Digital,Do not worry about managing the multiple versions of the Bible,Books
+Bhagavad Gita,Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi,Books
+Bhagavad Gita,Bhagavad Gita text,Books
+Bhagavad Gita telugu,Bhagavad Gita API in telugu and odia languages,Books
+Bible-api,Free Bible API with multiple languages,Books
+British National Bibliography,Books,Books
+Crossref Metadata Search,Books & Articles Metadata,Books
+Ganjoor,"Classic Persian poetry works including access to related manuscripts, recitations and music tracks",Books
+Google Books,Books,Books
+GurbaniNow,Fast and Accurate Gurbani RESTful API,Books
+Gutendex,Web-API for fetching data from Project Gutenberg Books Library,Books
+Open Library,"Books, book covers and related data",Books
+Penguin Publishing,"Books, book covers and related data",Books
+PoetryDB,Enables you to get instant data from our vast poetry collection,Books
+Quran,RESTful Quran API with multiple languages,Books
+Quran Cloud,"A RESTful Quran API to retrieve an Ayah, Surah, Juz or the entire Holy Quran",Books
+Quran-api,Free Quran API Service with 90+ different languages and 400+ translations,Books
+Rig Veda,"Gods and poets, their categories, and the verse meters, with the mandal and sukta number",Books
+The Bible,Everything you need from the Bible in one discoverable place,Books
+Thirukkural,1330 Thirukkural poems and explanation in Tamil and English,Books
+Vedic Society,"Descriptions of all nouns (names, places, animals, things) from vedic literature",Books
+Wizard World,Get information from the Harry Potter universe,Books
+Wolne Lektury,API for obtaining information about e-books available on the WolneLektury.pl website,Books
+Apache Superset,API to manage your BI dashboards and data sources on Superset,Business
+Charity Search,Non-profit charity data,Business
+Clearbit Logo,Search for company logos and embed them in your projects,Business
+Domainsdb.info,Registered Domain Names Search,Business
+Freelancer,Hire freelancers to get work done,Business
+Gmail,"Flexible, RESTful access to the user's inbox",Business
+Google Analytics,"Collect, configure and analyze your data to reach the right audience",Business
+Instatus,Post to and update maintenance and incidents on your status page through an HTTP REST API,Business
+Mailchimp,Send marketing campaigns and transactional mails,Business
+mailjet,Marketing email can be sent and mail templates made in MJML or HTML can be sent using API,Business
+markerapi,Trademark Search,Business
+ORB Intelligence,Company lookup,Business
+Redash,Access your queries and dashboards on Redash,Business
+Smartsheet,Allows you to programmatically access and Smartsheet data and account information,Business
+Square,"Easy way to take payments, manage refunds, and help customers checkout online",Business
+SwiftKanban,"Kanban software, Visualize Work, Increase Organizations Lead Time, Throughput & Productivity",Business
+Tenders in Hungary,Get data for procurements in Hungary in JSON format,Business
+Tenders in Poland,Get data for procurements in Poland in JSON format,Business
+Tenders in Romania,Get data for procurements in Romania in JSON format,Business
+Tenders in Spain,Get data for procurements in Spain in JSON format,Business
+Tenders in Ukraine,Get data for procurements in Ukraine in JSON format,Business
+Tomba email finder,Email Finder for B2B sales and email marketing and email verifier,Business
+Trello,"Boards, lists and cards to help you organize and prioritize your projects",Business
+Abstract Public Holidays,"Data on national, regional, and religious holidays via API",Calendar
+Calendarific,Worldwide Holidays,Calendar
+Checkiday - National Holiday API,"Industry-leading Holiday API. Over 5,000 holidays and thousands of descriptions. Trusted by the World’s leading companies",Calendar
+Church Calendar,Catholic liturgical calendar,Calendar
+Czech Namedays Calendar,Lookup for a name and returns nameday date,Calendar
+Festivo Public Holidays,Fastest and most advanced public holiday and observance service on the market,Calendar
+Google Calendar,"Display, create and modify Google calendar events",Calendar
+Hebrew Calendar,"Convert between Gregorian and Hebrew, fetch Shabbat and Holiday times, etc",Calendar
+Holidays,Historical data regarding holidays,Calendar
+LectServe,Protestant liturgical calendar,Calendar
+Nager.Date,Public holidays for more than 90 countries,Calendar
+Namedays Calendar,Provides namedays for multiple countries,Calendar
+Non-Working Days,Database of ICS files for non working days,Calendar
+Non-Working Days,"Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",Calendar
+Russian Calendar,Check if a date is a Russian holiday or not,Calendar
+UK Bank Holidays,"Bank holidays in England and Wales, Scotland and Northern Ireland",Calendar
+AnonFiles,Upload and share your files anonymously,Cloud Storage & File Sharing
+BayFiles,Upload and share your files,Cloud Storage & File Sharing
+Box,File Sharing and Storage,Cloud Storage & File Sharing
+ddownload,File Sharing and Storage,Cloud Storage & File Sharing
+Dropbox,File Sharing and Storage,Cloud Storage & File Sharing
+File.io,"Super simple file sharing, convenient, anonymous and secure",Cloud Storage & File Sharing
+Filestack,Filestack File Uploader & File Upload API,Cloud Storage & File Sharing
+GoFile,Unlimited size file uploads for free,Cloud Storage & File Sharing
+Google Drive,File Sharing and Storage,Cloud Storage & File Sharing
+Gyazo,Save & Share screen captures instantly,Cloud Storage & File Sharing
+Imgbb,Simple and quick private image sharing,Cloud Storage & File Sharing
+OneDrive,File Sharing and Storage,Cloud Storage & File Sharing
+Pantry,Free JSON storage for small projects,Cloud Storage & File Sharing
+Pastebin,Plain Text Storage,Cloud Storage & File Sharing
+Pinata,IPFS Pinning Services API,Cloud Storage & File Sharing
+Quip,File Sharing and Storage for groups,Cloud Storage & File Sharing
+Storj,Decentralized Open-Source Cloud Storage,Cloud Storage & File Sharing
+The Null Pointer,No-bullshit file hosting and URL shortening service,Cloud Storage & File Sharing
+Web3 Storage,File Sharing and Storage for Free with 1TB Space,Cloud Storage & File Sharing
+Azure DevOps Health,Resource health helps you diagnose and get support when an Azure issue impacts your resources,Continuous Integration
+Bitrise,Build tool and processes integrations to create efficient development pipelines,Continuous Integration
+Buddy,The fastest continuous integration and continuous delivery platform,Continuous Integration
+CircleCI,Automate the software development process using continuous integration and continuous delivery,Continuous Integration
+Codeship,Codeship is a Continuous Integration Platform in the cloud,Continuous Integration
+Travis CI,Sync your GitHub projects with Travis CI to test your code in minutes,Continuous Integration
+0x,API for querying token and pool stats across various liquidity pools,Cryptocurrency
+1inch,API for querying decentralize exchange,Cryptocurrency
+Alchemy Ethereum,Ethereum Node-as-a-Service Provider,Cryptocurrency
+apilayer coinlayer,Real-time Crypto Currency Exchange Rates,Cryptocurrency
+Binance,Exchange for Trading Cryptocurrencies based in China,Cryptocurrency
+Bitcambio,Get the list of all traded assets in the exchange,Cryptocurrency
+BitcoinAverage,Digital Asset Price Data for the blockchain industry,Cryptocurrency
+BitcoinCharts,Financial and Technical Data related to the Bitcoin Network,Cryptocurrency
+Bitfinex,Cryptocurrency Trading Platform,Cryptocurrency
+Bitmex,Real-Time Cryptocurrency derivatives trading platform based in Hong Kong,Cryptocurrency
+Bittrex,Next Generation Crypto Trading Platform,Cryptocurrency
+Block,"Bitcoin Payment, Wallet & Transaction Data",Cryptocurrency
+Blockchain,"Bitcoin Payment, Wallet & Transaction Data",Cryptocurrency
+blockfrost Cardano,Interaction with the Cardano mainnet and several testnets,Cryptocurrency
+Brave NewCoin,Real-time and historic crypto data from more than 200+ exchanges,Cryptocurrency
+BtcTurk,"Real-time cryptocurrency data, graphs and API that allows buy&sell",Cryptocurrency
+Bybit,Cryptocurrency data feed and algorithmic trading,Cryptocurrency
+CoinAPI,All Currency Exchanges integrate under a single api,Cryptocurrency
+Coinbase,"Bitcoin, Bitcoin Cash, Litecoin and Ethereum Prices",Cryptocurrency
+Coinbase Pro,Cryptocurrency Trading Platform,Cryptocurrency
+CoinCap,Real time Cryptocurrency prices through a RESTful API,Cryptocurrency
+CoinDCX,Cryptocurrency Trading Platform,Cryptocurrency
+CoinDesk,CoinDesk's Bitcoin Price Index (BPI) in multiple currencies,Cryptocurrency
+CoinGecko,"Cryptocurrency Price, Market, and Developer/Social Data",Cryptocurrency
+Coinigy,Interacting with Coinigy Accounts and Exchange Directly,Cryptocurrency
+Coinlib,Crypto Currency Prices,Cryptocurrency
+Coinlore,"Cryptocurrencies prices, volume and more",Cryptocurrency
+CoinMarketCap,Cryptocurrencies Prices,Cryptocurrency
+Coinpaprika,"Cryptocurrencies prices, volume and more",Cryptocurrency
+CoinRanking,Live Cryptocurrency data,Cryptocurrency
+Coinremitter,Cryptocurrencies Payment & Prices,Cryptocurrency
+CoinStats,Crypto Tracker,Cryptocurrency
+CryptAPI,Cryptocurrency Payment Processor,Cryptocurrency
+CryptingUp,Cryptocurrency data,Cryptocurrency
+CryptoCompare,Cryptocurrencies Comparison,Cryptocurrency
+CryptoMarket,Cryptocurrencies Trading platform,Cryptocurrency
+Cryptonator,Cryptocurrencies Exchange Rates,Cryptocurrency
+dYdX,Decentralized cryptocurrency exchange,Cryptocurrency
+Ethplorer,"Ethereum tokens, balances, addresses, history of transactions, contracts, and custom structures",Cryptocurrency
+EXMO,Cryptocurrencies exchange based in UK,Cryptocurrency
+FTX,"Complete REST, websocket, and FTX APIs to suit your algorithmic trading needs",Cryptocurrency
+Gateio,"API provides spot, margin and futures trading operations",Cryptocurrency
+Gemini,Cryptocurrencies Exchange,Cryptocurrency
+Hirak Exchange Rates,"Exchange rates between 162 currency & 300 crypto currency update each 5 min, accurate, no limits",Cryptocurrency
+Huobi,Seychelles based cryptocurrency exchange,Cryptocurrency
+icy.tools,GraphQL based NFT API,Cryptocurrency
+Indodax,Trade your Bitcoin and other assets with rupiah,Cryptocurrency
+INFURA Ethereum,Interaction with the Ethereum mainnet and several testnets,Cryptocurrency
+Kraken,Cryptocurrencies Exchange,Cryptocurrency
+KuCoin,Cryptocurrency Trading Platform,Cryptocurrency
+Localbitcoins,P2P platform to buy and sell Bitcoins,Cryptocurrency
+Mempool,Bitcoin API Service focusing on the transaction fee,Cryptocurrency
+MercadoBitcoin,Brazilian Cryptocurrency Information,Cryptocurrency
+Messari,Provides API endpoints for thousands of crypto assets,Cryptocurrency
+Nexchange,Automated cryptocurrency exchange service,Cryptocurrency
+Nomics,Historical and realtime cryptocurrency prices and market data,Cryptocurrency
+NovaDax,"NovaDAX API to access all market data, trading management endpoints",Cryptocurrency
+OKEx,Cryptocurrency exchange based in Seychelles,Cryptocurrency
+Poloniex,US based digital asset exchange,Cryptocurrency
+Solana JSON RPC,Provides various endpoints to interact with the Solana Blockchain,Cryptocurrency
+Technical Analysis,Cryptocurrency prices and technical analysis,Cryptocurrency
+VALR,Cryptocurrency Exchange based in South Africa,Cryptocurrency
+WorldCoinIndex,Cryptocurrencies Prices,Cryptocurrency
+ZMOK,Ethereum JSON RPC API and Web3 provider,Cryptocurrency
+1Forge,Forex currency market data,Currency Exchange
+Amdoren,Free currency API with over 150 currencies,Currency Exchange
+apilayer fixer.io,Exchange rates and currency conversion,Currency Exchange
+Bank of Russia,Exchange rates and currency conversion,Currency Exchange
+Currency-api,Free Currency Exchange Rates API with 150+ Currencies & No Rate Limits,Currency Exchange
+CurrencyFreaks,Provides current and historical currency exchange rates with free plan 1K requests/month,Currency Exchange
+Currencylayer,Exchange rates and currency conversion,Currency Exchange
+CurrencyScoop,Real-time and historical currency rates JSON API,Currency Exchange
+Czech National Bank,A collection of exchange rates,Currency Exchange
+Economia.Awesome,Portuguese free currency prices and conversion with no rate limits,Currency Exchange
+ExchangeRate-API,Free currency conversion,Currency Exchange
+Exchangerate.host,Free foreign exchange & crypto rates API,Currency Exchange
+Exchangeratesapi.io,Exchange rates with currency conversion,Currency Exchange
+Frankfurter,"Exchange rates, currency conversion and time series",Currency Exchange
+FreeForexAPI,Real-time foreign exchange rates for major currency pairs,Currency Exchange
+National Bank of Poland,A collection of currency exchange rates (data in XML and JSON),Currency Exchange
+VATComply.com,"Exchange rates, geolocation and VAT number validation",Currency Exchange
+Lob.com,US Address Verification,Data Validation
+Postman Echo,Test api server to receive and return value from HTTP method,Data Validation
+PurgoMalum,Content validator against profanity & obscenity,Data Validation
+US Autocomplete,Enter address data quickly with real-time address suggestions,Data Validation
+US Extract,Extract postal addresses from any text including emails,Data Validation
+US Street Address,Validate and append data for any US postal address,Data Validation
+vatlayer,VAT number validation,Data Validation
+24 Pull Requests,Project to promote open source collaboration during December,Development
+Abstract Screenshot,Take programmatic screenshots of web pages from any website,Development
+Agify.io,Estimates the age from a first name,Development
+API Grátis,Multiples services and public APIs,Development
+ApicAgent,Extract device details from user-agent string,Development
+ApiFlash,Chrome based screenshot API for developers,Development
+apilayer userstack,Secure User-Agent String Lookup JSON API,Development
+APIs.guru,"Wikipedia for Web APIs, OpenAPI/Swagger specs for public APIs",Development
+Azure DevOps,The Azure DevOps basic components of a REST API request/response pair,Development
+Base,Building quick backends,Development
+Beeceptor,Build a mock Rest API endpoint in seconds,Development
+Bitbucket,Bitbucket API,Development
+Blague.xyz,La plus grande API de Blagues FR/The biggest FR jokes API,Development
+Blitapp,Schedule screenshots of web pages and sync them to your cloud,Development
+Blynk-Cloud,Control IoT Devices from Blynk IoT Cloud,Development
+Bored,Find random activities to fight boredom,Development
+Brainshop.ai,Make A Free A.I Brain,Development
+Browshot,"Easily make screenshots of web pages in any screen size, as any device",Development
+CDNJS,Library info on CDNJS,Development
+Changelogs.md,Structured changelog metadata from open source projects,Development
+Ciprand,Secure random string generator,Development
+Cloudflare Trace,"Get IP Address, Timestamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version & More",Development
+Codex,Online Compiler for Various Languages,Development
+Contentful Images,Used to retrieve and apply transformations to images,Development
+CORS Proxy,Get around the dreaded CORS error by using this proxy as a middle man,Development
+CountAPI,Free and simple counting service. You can use it to track page hits and specific events,Development
+Databricks,"Service to manage your databricks account,clusters, notebooks, jobs and workspaces",Development
+DigitalOcean Status,Status of all DigitalOcean services,Development
+Docker Hub,Interact with Docker Hub,Development
+DomainDb Info,Domain name search to find all domains containing particular words/phrases/etc,Development
+ExtendsClass JSON Storage,A simple JSON store API,Development
+GeekFlare,Provide numerous capabilities for important testing and monitoring methods for websites,Development
+Genderize.io,Estimates a gender from a first name,Development
+GETPing,Trigger an email notification with a simple GET request,Development
+Ghost,"Get Published content into your Website, App or other embedded media",Development
+GitHub,"Make use of GitHub repositories, code and user info programmatically",Development
+Gitlab,Automate GitLab interaction programmatically,Development
+Gitter,Chat for Developers,Development
+Glitterly,Image generation API,Development
+Google Docs,"API to read, write, and format Google Docs documents",Development
+Google Firebase,"Google's mobile application development platform that helps build, improve, and grow app",Development
+Google Fonts,Metadata for all families served by Google Fonts,Development
+Google Keep,"API to read, write, and format Google Keep notes",Development
+Google Sheets,"API to read, write, and format Google Sheets data",Development
+Google Slides,"API to read, write, and format Google Slides presentations",Development
+Gorest,Online REST API for Testing and Prototyping,Development
+Hasura,GraphQL and REST API Engine with built in Authorization,Development
+Heroku,"REST API to programmatically create apps, provision add-ons and perform other task on Heroku",Development
+host-t.com,Basic DNS query via HTTP GET request,Development
+Host.io,Domains Data API for Developers,Development
+HTTP2.Pro,Test endpoints for client and server HTTP/2 protocol support,Development
+Httpbin,A Simple HTTP Request & Response Service,Development
+Httpbin Cloudflare,A Simple HTTP Request & Response Service with HTTP/3 Support by Cloudflare,Development
+Hunter,"API for domain search, professional email finder, author finder and email verifier",Development
+IBM Text to Speech,Convert text to speech,Development
+Icanhazepoch,Get Epoch time,Development
+Icanhazip,IP Address API,Development
+IFTTT,IFTTT Connect API,Development
+Image-Charts,"Generate charts, QR codes and graph images",Development
+import.io,Retrieve structured data from a website or RSS feed,Development
+ip-fast.com,"IP address, country and city",Development
+IP2WHOIS Information Lookup,WHOIS domain name lookup,Development
+ipfind.io,Geographic location of an IP address or any domain name along with some other useful information,Development
+IPify,A simple IP Address API,Development
+IPinfo,Another simple IP Address API,Development
+jsDelivr,Package info and download stats on jsDelivr CDN,Development
+JSON 2 JSONP,Convert JSON to JSONP (on-the-fly) for easy cross-domain data requests using client-side JavaScript,Development
+JSONbin.io,"Free JSON storage service. Ideal for small scale Web apps, Websites and Mobile apps",Development
+Kroki,Creates diagrams from textual descriptions,Development
+License-API,Unofficial REST API for choosealicense.com,Development
+Logs.to,Generate logs,Development
+Lua Decompiler,Online Lua 5.1 Decompiler,Development
+MAC address vendor lookup,Retrieve vendor details and other information regarding a given MAC address or an OUI,Development
+Micro DB,Simple database service,Development
+MicroENV,Fake Rest API for developers,Development
+Mocky,Mock user defined test JSON for REST API endpoints,Development
+MY IP,Get IP address information,Development
+Nationalize.io,Estimate the nationality of a first name,Development
+Netlify,Netlify is a hosting service for the programmable web,Development
+NetworkCalc,"Network calculators, including subnets, DNS, binary, and security tools",Development
+npm Registry,Query information about your favorite Node.js libraries programatically,Development
+OneSignal,"Self-serve customer engagement solution for Push Notifications, Email, SMS & In-App",Development
+Open Page Rank,API for calculating and comparing metrics of different websites using Page Rank algorithm,Development
+OpenAPIHub,The All-in-one API Platform,Development
+OpenGraphr,Really simple API to retrieve Open Graph data from an URL,Development
+oyyi,"API for Fake Data, image/video conversion, optimization, pdf optimization and thumbnail generation",Development
+PageCDN,"Public API for javascript, css and font libraries on PageCDN",Development
+Postman,Tool for testing APIs,Development
+ProxyCrawl,Scraping and crawling anticaptcha service,Development
+ProxyKingdom,Rotating Proxy API that produces a working proxy on every request,Development
+Pusher Beams,Push notifications for Android & iOS,Development
+QR code,Create an easy to read QR code and URL shortener,Development
+QR code,Generate and decode / read QR code graphics,Development
+Qrcode Monkey,Integrate custom and unique looking QR codes into your system or workflow,Development
+QuickChart,Generate chart and graph images,Development
+Random Stuff,"Can be used to get AI Response, jokes, memes, and much more at lightning-fast speed",Development
+Rejax,Reverse AJAX service to notify clients,Development
+ReqRes,A hosted REST-API ready to respond to your AJAX requests,Development
+RSS feed to JSON,Returns RSS feed in JSON format using feed URL,Development
+SavePage.io,"A free, RESTful API used to screenshot any desktop, or mobile website",Development
+ScrapeNinja,Scraping API with Chrome fingerprint and residential proxies,Development
+ScraperApi,Easily build scalable web scrapers,Development
+scraperBox,Undetectable web scraping API,Development
+scrapestack,"Real-time, Scalable Proxy & Web Scraping REST API",Development
+ScrapingAnt,Headless Chrome scraping with a simple API,Development
+ScrapingDog,Proxy API for Web scraping,Development
+ScreenshotAPI.net,Create pixel-perfect website screenshots,Development
+Serialif Color,"Color conversion, complementary, grayscale and contrasted text",Development
+serpstack,Real-Time & Accurate Google Search Results API,Development
+Sheetsu,Easy google sheets integration,Development
+SHOUTCLOUD,ALL-CAPS AS A SERVICE,Development
+Sonar,Project Sonar DNS Enumeration API,Development
+SonarQube,"SonarQube REST APIs to detect bugs, code smells & security vulnerabilities",Development
+StackExchange,Q&A forum for developers,Development
+Statically,A free CDN for developers,Development
+Supportivekoala,Autogenerate images with template,Development
+Tyk,Api and service management platform,Development
+Wandbox,Code compiler supporting 35+ languages mentioned at wandbox.org,Development
+WebScraping.AI,Web Scraping API with built-in proxies and JS rendering,Development
+ZenRows,"Web Scraping API that bypasses anti-bot solutions while offering JS rendering, and rotating proxies",Development
+Chinese Character Web,Chinese character definitions and pronunciations,Dictionaries
+Chinese Text Project,Online open-access digital library for pre-modern Chinese texts,Dictionaries
+Collins,Bilingual Dictionary and Thesaurus Data,Dictionaries
+Free Dictionary,"Definitions, phonetics, pronounciations, parts of speech, examples, synonyms",Dictionaries
+Indonesia Dictionary,Indonesia dictionary many words,Dictionaries
+Lingua Robot,"Word definitions, pronunciations, synonyms, antonyms and others",Dictionaries
+Merriam-Webster,Dictionary and Thesaurus Data,Dictionaries
+OwlBot,Definitions with example sentence and photo if available,Dictionaries
+Oxford,Dictionary Data,Dictionaries
+Synonyms,"Synonyms, thesaurus and antonyms information for any given word",Dictionaries
+Wiktionary,Collaborative dictionary data,Dictionaries
+Wordnik,Dictionary Data,Dictionaries
+Words,"Definitions and synonyms for more than 150,000 words",Dictionaries
+Airtable,Integrate with Airtable,Documents & Productivity
+Api2Convert,Online File Conversion API,Documents & Productivity
+apilayer pdflayer,HTML/URL to PDF,Documents & Productivity
+Asana,Programmatic access to all data in your asana system,Documents & Productivity
+ClickUp,"ClickUp is a robust, cloud-based project management tool for boosting productivity",Documents & Productivity
+Clockify,Clockify's REST-based API can be used to push/pull data to/from it & integrate it with other systems,Documents & Productivity
+CloudConvert,"Online file converter for audio, video, document, ebook, archive, image, spreadsheet, presentation",Documents & Productivity
+Cloudmersive Document and Data Conversion,"HTML/URL to PDF/PNG, Office documents to PDF, image conversion",Documents & Productivity
+Code::Stats,Automatic time tracking for programmers,Documents & Productivity
+CraftMyPDF,Generate PDF documents from templates with a drop-and-drop editor and a simple API,Documents & Productivity
+Flowdash,Automate business workflows,Documents & Productivity
+Html2PDF,HTML/URL to PDF,Documents & Productivity
+iLovePDF,"Convert, merge, split, extract text and add page numbers for PDFs. Free for 250 documents/month",Documents & Productivity
+JIRA,JIRA is a proprietary issue tracking product that allows bug tracking and agile project management,Documents & Productivity
+Mattermost,An open source platform for developer collaboration,Documents & Productivity
+Mercury,Web parser,Documents & Productivity
+Monday,Programmatically access and update data inside a monday.com account,Documents & Productivity
+Notion,Integrate with Notion,Documents & Productivity
+PandaDoc,DocGen and eSignatures API,Documents & Productivity
+Pocket,Bookmarking service,Documents & Productivity
+Podio,File sharing and productivity,Documents & Productivity
+PrexView,"Data from XML or JSON to PDF, HTML or Image",Documents & Productivity
+Restpack,"Provides screenshot, HTML to PDF and content extraction APIs",Documents & Productivity
+Todoist,Todo Lists,Documents & Productivity
+Smart Image Enhancement API,Performs image upscaling by adding detail to images through multiple super-resolution algorithms,Documents & Productivity
+Vector Express v2.0,Free vector file converting API,Documents & Productivity
+WakaTime,Automated time tracking leaderboards for programmers,Documents & Productivity
+Zube,Full stack project management,Documents & Productivity
+Abstract Email Validation,Validate email addresses for deliverability and spam,Email
+apilayer mailboxlayer,Email address validation,Email
+Cloudmersive Validate,"Validate email addresses, phone numbers, VAT numbers and domain names",Email
+Disify,Validate and detect disposable and temporary email addresses,Email
+DropMail,GraphQL API for creating and managing ephemeral e-mail inboxes,Email
+EVA,Validate email addresses,Email
+Guerrilla Mail,Disposable temporary Email addresses,Email
+ImprovMX,API for free email forwarding service,Email
+Kickbox,Email verification API,Email
+mail.gw,10 Minute Mail,Email
+mail.tm,Temporary Email Service,Email
+MailboxValidator,Validate email address to improve deliverability,Email
+MailCheck.ai,Prevent users to sign up with temporary email addresses,Email
+Mailtrap,A service for the safe testing of emails sent from the development and staging environments,Email
+Sendgrid,A cloud-based SMTP provider that allows you to send emails without having to maintain email servers,Email
+Sendinblue,A service that provides solutions relating to marketing and/or transactional email and/or SMS,Email
+Verifier,Verifies that a given email is real,Email
+chucknorris.io,JSON API for hand curated Chuck Norris jokes,Entertainment
+Corporate Buzz Words,REST API for Corporate Buzz Words,Entertainment
+Excuser,Get random excuses for various situations,Entertainment
+Fun Fact,A simple HTTPS api that can randomly select and return a fact from the FFA database,Entertainment
+Imgflip,Gets an array of popular memes,Entertainment
+Meme Maker,REST API for create your own meme,Entertainment
+NaMoMemes,Memes on Narendra Modi,Entertainment
+Random Useless Facts,"Get useless, but true facts",Entertainment
+Techy,JSON and Plaintext API for tech-savvy sounding phrases,Entertainment
+Yo Momma Jokes,REST API for Yo Momma Jokes,Entertainment
+BreezoMeter Pollen,Daily Forecast pollen conditions data for a specific location,Environment
+Carbon Interface,API to calculate carbon (C02) emissions estimates for common C02 emitting activities,Environment
+Climatiq,Calculate the environmental footprint created by a broad range of emission-generating activities,Environment
+Cloverly,API calculates the impact of common carbon-intensive activities in real time,Environment
+CO2 Offset,API calculates and validates the carbon footprint,Environment
+Danish data service Energi,Open energy data from Energinet to society,Environment
+GrünstromIndex,Green Power Index for Germany (Grünstromindex/GSI),Environment
+IQAir,Air quality and weather data,Environment
+Luchtmeetnet,Predicted and actual air quality components for The Netherlands (RIVM),Environment
+National Grid ESO,Open data from Great Britain’s Electricity System Operator,Environment
+OpenAQ,Open air quality data,Environment
+PM2.5 Open Data Portal,Open low-cost PM2.5 sensor data,Environment
+PM25.in,Air quality of China,Environment
+PVWatts,Energy production photovoltaic (PV) energy systems,Environment
+Srp Energy,Hourly usage energy report for Srp customers,Environment
+UK Carbon Intensity,The Official Carbon Intensity API for Great Britain developed by National Grid,Environment
+Website Carbon,API to estimate the carbon footprint of loading web pages,Environment
+Eventbrite,Find events,Events
+SeatGeek,"Search events, venues and performers",Events
+Ticketmaster,"Search events, attractions, or venues",Events
+Abstract VAT Validation,Validate VAT numbers and calculate VAT rates,Finance
+Aletheia,"Insider trading data, earnings call analysis, financial statements, and more",Finance
+Alpaca,Realtime and historical market data on all US equities and ETFs,Finance
+Alpha Vantage,Realtime and historical stock data,Finance
+apilayer marketstack,"Real-Time, Intraday & Historical Market Data API",Finance
+Banco do Brasil,All Banco do Brasil financial transaction APIs,Finance
+Bank Data API,Instant IBAN and SWIFT number validation across the globe,Finance
+Billplz,Payment platform,Finance
+Binlist,Public access to a database of IIN/BIN information,Finance
+Boleto.Cloud,A api to generate boletos in Brazil,Finance
+Citi,All Citigroup account and statement data APIs,Finance
+Econdb,Global macroeconomic data,Finance
+Fed Treasury,U.S. Department of the Treasury Data,Finance
+Finage,"Finage is a stock, currency, cryptocurrency, indices, and ETFs real-time & historical data provider",Finance
+Financial Modeling Prep,Realtime and historical stock data,Finance
+Finnhub,"Real-Time RESTful APIs and Websocket for Stocks, Currencies, and Crypto",Finance
+FRED,Economic data from the Federal Reserve Bank of St. Louis,Finance
+Front Accounting APIs,Front accounting is multilingual and multicurrency software for small businesses,Finance
+Hotstoks,Stock market data powered by SQL,Finance
+IEX Cloud,Realtime & Historical Stock and Market Data,Finance
+IG,Spreadbetting and CFD Market Data,Finance
+Indian Mutual Fund,Get complete history of India Mutual Funds Data,Finance
+Intrinio,A wide selection of financial data feeds,Finance
+Klarna,Klarna payment and shopping service,Finance
+MercadoPago,Mercado Pago API reference - all the information you need to develop your integrations,Finance
+Mono,Connect with users’ bank accounts and access transaction data in Africa,Finance
+Moov,"The Moov API makes it simple for platforms to send, receive, and store money",Finance
+Nordigen,Connect to bank accounts using official bank APIs and get raw transaction data,Finance
+OpenFIGI,"Equity, index, futures, options symbology from Bloomberg LP",Finance
+Plaid,Connect with user's bank accounts and access transaction data,Finance
+Polygon,Historical stock market data,Finance
+Portfolio Optimizer,Portfolio analysis and optimization,Finance
+Razorpay IFSC,Indian Financial Systems Code (Bank Branch Codes),Finance
+Real Time Finance,Websocket API to access realtime stock data,Finance
+SEC EDGAR Data,API to access annual reports of public US companies,Finance
+SmartAPI,Gain access to set of <SmartAPI> and create end-to-end broking services,Finance
+StockData,"Real-Time, Intraday & Historical Market Data, News and Sentiment API",Finance
+Styvio,Realtime and historical stock data and current stock sentiment,Finance
+Tax Data API,Instant VAT number and tax validation across the globe,Finance
+Tradier,"US equity/option market data (delayed, intraday, historical)",Finance
+Twelve Data,Stock market data (real-time & historical),Finance
+WallstreetBets,WallstreetBets Stock Comments Sentiment Analysis,Finance
+Yahoo Finance,"Real time low latency Yahoo Finance API for stock market, crypto currencies, and currency exchange",Finance
+YNAB,Budgeting & Planning,Finance
+Zoho Books,"Online accounting software, built for your business",Finance
+BaconMockup,Resizable bacon placeholder images,Food & Drink
+Chomp,Data about various grocery products and foods,Food & Drink
+Coffee,Random pictures of coffee,Food & Drink
+Edamam nutrition,Nutrition Analysis,Food & Drink
+Edamam recipes,Recipe Search,Food & Drink
+Foodish,Random pictures of food dishes,Food & Drink
+Fruityvice,Data about all kinds of fruit,Food & Drink
+Kroger,Supermarket Data,Food & Drink
+LCBO,Alcohol,Food & Drink
+Open Brewery DB,"Breweries, Cideries and Craft Beer Bottle Shops",Food & Drink
+Open Food Facts,Food Products Database,Food & Drink
+PunkAPI,Brewdog Beer Recipes,Food & Drink
+Rustybeer,Beer brewing tools,Food & Drink
+Spoonacular,"Recipes, Food Products, and Meal Planning",Food & Drink
+Systembolaget,Govornment owned liqour store in Sweden,Food & Drink
+TacoFancy,Community-driven taco database,Food & Drink
+Tasty,"API to query data about recipe, plan, ingredients",Food & Drink
+The Report of the Week,Food & Drink Reviews,Food & Drink
+TheCocktailDB,Cocktail Recipes,Food & Drink
+TheMealDB,Meal Recipes,Food & Drink
+Untappd,Social beer sharing,Food & Drink
+What's on the menu?,NYPL human-transcribed historical menu collection,Food & Drink
+WhiskyHunter,Past online whisky auctions statistical data,Food & Drink
+Zestful,Parse recipe ingredients,Food & Drink
+Age of Empires II,Get information about Age of Empires II resources,Games & Comics
+AmiiboAPI,Nintendo Amiibo Information,Games & Comics
+Animal Crossing: New Horizons,"API for critters, fossils, art, music, furniture and villagers",Games & Comics
+Autochess VNG,Rest Api for Autochess VNG,Games & Comics
+Barter.VG,"Provides information about Game, DLC, Bundles, Giveaways, Trading",Games & Comics
+Battle.net,"Diablo III, Hearthstone, StarCraft II and World of Warcraft game data APIs",Games & Comics
+Board Game Geek,"Board games, RPG and videogames",Games & Comics
+Brawl Stars,Brawl Stars Game Information,Games & Comics
+Bugsnax,Get information about Bugsnax,Games & Comics
+CheapShark,Steam/PC Game Prices and Deals,Games & Comics
+Chess.com,Chess.com read-only REST API,Games & Comics
+Chuck Norris Database,Jokes,Games & Comics
+Clash of Clans,Clash of Clans Game Information,Games & Comics
+Clash Royale,Clash Royale Game Information,Games & Comics
+Comic Vine,Comics,Games & Comics
+Crafatar,API for Minecraft skins and faces,Games & Comics
+Cross Universe,Cross Universe Card Data,Games & Comics
+Deck of Cards,Deck of Cards,Games & Comics
+Destiny The Game,Bungie Platform API,Games & Comics
+Digimon Information,Provides information about digimon creatures,Games & Comics
+Digimon TCG,Search for Digimon cards in digimoncard.io,Games & Comics
+Disney,Information of Disney characters,Games & Comics
+Dota 2,"Provides information about Player stats , Match stats, Rankings for Dota 2",Games & Comics
+Dungeons and Dragons,"Reference for 5th edition spells, classes, monsters, and more",Games & Comics
+Dungeons and Dragons (Alternate),Includes all monsters and spells from the SRD (System Reference Document) as well as a search API,Games & Comics
+Eve Online,Third-Party Developer Documentation,Games & Comics
+FFXIV Collect,Final Fantasy XIV data on collectables,Games & Comics
+FIFA Ultimate Team,FIFA Ultimate Team items API,Games & Comics
+Final Fantasy XIV,Final Fantasy XIV Game data API,Games & Comics
+Fortnite,Fortnite Stats,Games & Comics
+Forza,Show random image of car from Forza,Games & Comics
+FreeToGame,Free-To-Play Games Database,Games & Comics
+Fun Facts,Random Fun Facts,Games & Comics
+FunTranslations,Translate Text into funny languages,Games & Comics
+GamerPower,Game Giveaways Tracker,Games & Comics
+GDBrowser,Easy way to use the Geometry Dash Servers,Games & Comics
+Geek-Jokes,Fetch a random geeky/programming related joke for use in all sorts of applications,Games & Comics
+Genshin Impact,Genshin Impact game data,Games & Comics
+Giant Bomb,Video Games,Games & Comics
+GraphQL Pokemon,GraphQL powered Pokemon API. Supports generations 1 through 8,Games & Comics
+Guild Wars 2,Guild Wars 2 Game Information,Games & Comics
+GW2Spidy,"GW2Spidy API, Items data on the Guild Wars 2 Trade Market",Games & Comics
+Halo,Halo 5 and Halo Wars 2 Information,Games & Comics
+Hearthstone,Hearthstone Cards Information,Games & Comics
+Humble Bundle,Humble Bundle's current bundles,Games & Comics
+Humor,"Humor, Jokes, and Memes",Games & Comics
+Hypixel,Hypixel player stats,Games & Comics
+Hyrule Compendium,Data on all interactive items from The Legend of Zelda: BOTW,Games & Comics
+Hytale,Hytale blog posts and jobs,Games & Comics
+IGDB.com,Video Game Database,Games & Comics
+JokeAPI,"Programming, Miscellaneous and Dark Jokes",Games & Comics
+Jokes One,Joke of the day and large category of jokes accessible via REST API,Games & Comics
+Jservice,Jeopardy Question Database,Games & Comics
+Lichess,"Access to all data of users, games, puzzles and etc on Lichess",Games & Comics
+Magic The Gathering,Magic The Gathering Game Information,Games & Comics
+Mario Kart Tour,"API for Drivers, Karts, Gliders and Courses",Games & Comics
+Marvel,Marvel Comics,Games & Comics
+Minecraft Server Status,API to get Information about a Minecraft Server,Games & Comics
+MMO Games,"MMO Games Database, News and Giveaways",Games & Comics
+mod.io,Cross Platform Mod API,Games & Comics
+Mojang,Mojang / Minecraft API,Games & Comics
+Monster Hunter World,Monster Hunter World data,Games & Comics
+Open Trivia,Trivia Questions,Games & Comics
+PandaScore,E-sports games and results,Games & Comics
+Path of Exile,Path of Exile Game Information,Games & Comics
+PlayerDB,"Query Minecraft, Steam and XBox Accounts",Games & Comics
+Pokéapi,Pokémon Information,Games & Comics
+PokéAPI (GraphQL),The Unofficial GraphQL for PokeAPI,Games & Comics
+Pokémon TCG,Pokémon TCG Information,Games & Comics
+Psychonauts,Psychonauts World Characters Information and PSI Powers,Games & Comics
+PUBG,Access in-game PUBG data,Games & Comics
+Puyo Nexus,Puyo Puyo information from Puyo Nexus Wiki,Games & Comics
+quizapi.io,Access to various kind of quiz questions,Games & Comics
+Raider,Provides detailed character and guild rankings for Raiding and Mythic+ content in World of Warcraft,Games & Comics
+RAWG.io,"500,000+ games for 50 platforms including mobiles",Games & Comics
+Rick and Morty,"All the Rick and Morty information, including images",Games & Comics
+Riot Games,League of Legends Game Information,Games & Comics
+RPS 101,"Rock, Paper, Scissors with 101 objects",Games & Comics
+RuneScape,RuneScape and OSRS RPGs information,Games & Comics
+Sakura CardCaptor,Sakura CardCaptor Cards Information,Games & Comics
+Scryfall,Magic: The Gathering database,Games & Comics
+SpaceTradersAPI,A playable inter-galactic space trading MMOAPI,Games & Comics
+Steam,Steam Web API documentation,Games & Comics
+Steam,Internal Steam Web API documentation,Games & Comics
+SuperHeroes,All SuperHeroes and Villains data from all universes under a single API,Games & Comics
+TCGdex,Multi languages Pokémon TCG Information,Games & Comics
+Tebex,Tebex API for information about game purchases,Games & Comics
+TETR.IO,TETR.IO Tetra Channel API,Games & Comics
+Tronald Dump,The dumbest things Donald Trump has ever said,Games & Comics
+Universalis,Final Fantasy XIV market board data,Games & Comics
+Valorant (non-official),"An extensive API containing data of most Valorant in-game items, assets and more",Games & Comics
+Warface (non-official),Official API proxy with better data structure and more features,Games & Comics
+Wargaming.net,Wargaming.net info and stats,Games & Comics
+When is next MCU film,Upcoming MCU film information,Games & Comics
+xkcd,Retrieve xkcd comics as JSON,Games & Comics
+Yu-Gi-Oh!,Yu-Gi-Oh! TCG Information,Games & Comics
+Abstract IP Geolocation,Geolocate website visitors from their IPs,Geocoding
+Actinia Grass GIS,Actinia is an open source REST API for geographical data that uses GRASS GIS,Geocoding
+administrative-divisons-db,Get all administrative divisions of a country,Geocoding
+adresse.data.gouv.fr,"Address database of France, geocoding and reverse",Geocoding
+Airtel IP,IP Geolocation API. Collecting data from multiple sources,Geocoding
+Apiip,Get location information by IP address,Geocoding
+apilayer ipstack,Locate and identify website visitors by IP address,Geocoding
+Battuta,A (country/region/city) in-cascade location API,Geocoding
+BigDataCloud,Provides fast and accurate IP geolocation APIs along with security checks and confidence area,Geocoding
+Bing Maps,Create/customize digital maps based on Bing Maps data,Geocoding
+bng2latlong,Convert British OSGB36 easting and northing (British National Grid) to WGS84 latitude and longitude,Geocoding
+Cartes.io,Create maps and markers for anything,Geocoding
+Cep.la,"Brazil RESTful API to find information about streets, zip codes, neighborhoods, cities and states",Geocoding
+CitySDK,Open APIs for select European cities,Geocoding
+Country,Get your visitor's country from their IP,Geocoding
+CountryStateCity,"World countries, states, regions, provinces, cities & towns in JSON, SQL, XML, YAML, & CSV format",Geocoding
+Ducks Unlimited,API explorer that gives a query URL with a JSON response of locations and cities,Geocoding
+FreeGeoIP,"Free geo ip information, no registration required. 15k/hour rate limit",Geocoding
+GeoApi,French geographical data,Geocoding
+Geoapify,"Forward and reverse geocoding, address autocomplete",Geocoding
+Geocod.io,Address geocoding / reverse geocoding in bulk,Geocoding
+Geocode.xyz,"Provides worldwide forward/reverse geocoding, batch geocoding and geoparsing",Geocoding
+Geocodify.com,"Worldwide geocoding, geoparsing and autocomplete for addresses",Geocoding
+Geodata.gov.gr,Open geospatial data and API service for Greece,Geocoding
+GeoDataSource,Geocoding of city name by using latitude and longitude coordinates,Geocoding
+GeoDB Cities,"Get global city, region, and country data",Geocoding
+GeographQL,"A Country, State, and City GraphQL API",Geocoding
+GeoJS,IP geolocation with ChatOps integration,Geocoding
+Geokeo,Geokeo geocoding service- with 2500 free api requests daily,Geocoding
+GeoNames,Place names and other geographical data,Geocoding
+geoPlugin,IP geolocation and currency conversion,Geocoding
+Google Earth Engine,A cloud-based platform for planetary-scale environmental data analysis,Geocoding
+Google Maps,Create/customize digital maps based on Google Maps data,Geocoding
+Graph Countries,"Country-related data like currencies, languages, flags, regions+subregions and bordering countries",Geocoding
+HelloSalut,Get hello translation following user language,Geocoding
+HERE Maps,Create/customize digital maps based on HERE Maps data,Geocoding
+Hirak IP to Country,"Ip to location with country code, currency code & currency name, fast response, unlimited requests",Geocoding
+Hong Kong GeoData Store,API for accessing geo-data of Hong Kong,Geocoding
+IBGE,Aggregate services of IBGE (Brazilian Institute of Geography and Statistics),Geocoding
+IP 2 Country,Map an IP to a country,Geocoding
+IP Address Details,Find geolocation with ip address,Geocoding
+IP Vigilante,Free IP Geolocation API,Geocoding
+ip-api,Find location with IP address or domain,Geocoding
+IP2Location,IP geolocation web service to get more than 55 parameters,Geocoding
+IP2Proxy,Detect proxy and VPN using IP address,Geocoding
+ipapi.co,Find IP address location information,Geocoding
+ipapi.com,Real-time Geolocation & Reverse IP Lookup REST API,Geocoding
+IPGEO,Unlimited free IP Address API with useful information,Geocoding
+ipgeolocation,IP Geolocation AP with free plan 30k requests per month,Geocoding
+IPInfoDB,"Free Geolocation tools and APIs for country, region, city and time zone lookup by IP address",Geocoding
+Kakao Maps,Kakao Maps provide multiple APIs for Korean maps,Geocoding
+keycdn IP Location Finder,Get the IP geolocation data through the simple REST API. All the responses are JSON encoded,Geocoding
+LocationIQ,Provides forward/reverse geocoding and batch geocoding,Geocoding
+Longdo Map,Interactive map with detailed places and information portal in Thailand,Geocoding
+Mapbox,Create/customize beautiful digital maps,Geocoding
+MapQuest,To access tools and resources to map the world,Geocoding
+Mexico,Mexico RESTful zip codes API,Geocoding
+Nominatim,Provides worldwide forward / reverse geocoding,Geocoding
+"One Map, Singapore",Singapore Land Authority REST API services for Singapore addresses,Geocoding
+OnWater,Determine if a lat/lon is on water or land,Geocoding
+Open Topo Data,Elevation and ocean depth for a latitude and longitude,Geocoding
+OpenCage,Forward and reverse geocoding using open data,Geocoding
+openrouteservice.org,"Directions, POIs, isochrones, geocoding (+reverse), elevation, and more",Geocoding
+OpenStreetMap,"Navigation, geolocation and geographical data",Geocoding
+Pinball Map,A crowdsourced map of public pinball machines,Geocoding
+positionstack,Forward & Reverse Batch Geocoding REST API,Geocoding
+Postali,Mexico Zip Codes API,Geocoding
+PostcodeData.nl,Provide geolocation data based on postcode for Dutch addresses,Geocoding
+Postcodes.io,Postcode lookup & Geolocation for the UK,Geocoding
+Queimadas INPE,Access to heat focus data (probable wildfire),Geocoding
+REST Countries,Get information about countries via a RESTful API,Geocoding
+RoadGoat Cities,Cities content & photos API,Geocoding
+Rwanda Locations,"Rwanda Provences, Districts, Cities, Capital City, Sector, cells, villages and streets",Geocoding
+SLF,"German city, country, river, database",Geocoding
+SpotSense,Add location based interactions to your mobile app,Geocoding
+Telize,Telize offers location information from any IP address,Geocoding
+TomTom,"Maps, Directions, Places and Traffic APIs",Geocoding
+Uebermaps,Discover and share maps with friends,Geocoding
+US ZipCode,Validate and append data for any US ZipCode,Geocoding
+Utah AGRC,Utah Web API for geocoding Utah addresses,Geocoding
+ViaCep,Brazil RESTful zip codes API,Geocoding
+What3Words,Three words as rememberable and unique coordinates worldwide,Geocoding
+Yandex.Maps Geocoder,Use geocoding to get an object's coordinates from its address,Geocoding
+ZipCodeAPI,"US zip code distance, radius and location API",Geocoding
+Zippopotam.us,"Get information about place such as country, city, state, etc",Geocoding
+Ziptastic,"Get the country, state, and city of any US zip-code",Geocoding
+Bank Negara Malaysia Open Data,Malaysia Central Bank Open Data,Government
+BCLaws,Access to the laws of British Columbia,Government
+Brazil,Community driven API for Brazil Public Data,Government
+Brazil Central Bank Open Data,Brazil Central Bank Open Data,Government
+Brazil Receita WS,Consult companies by CNPJ for Brazilian companies,Government
+Brazilian Chamber of Deputies Open Data,"Provides legislative information in Apis XML and JSON, as well as files in various formats",Government
+Census.gov,The US Census Bureau provides various APIs and data sets on demographics and businesses,Government
+"City, Berlin",Berlin(DE) City Open Data,Government
+"City, Gdańsk",Gdańsk (PL) City Open Data,Government
+"City, Gdynia",Gdynia (PL) City Open Data,Government
+"City, Helsinki",Helsinki(FI) City Open Data,Government
+"City, Lviv",Lviv(UA) City Open Data,Government
+"City, Nantes Open Data",Nantes(FR) City Open Data,Government
+"City, New York Open Data",New York (US) City Open Data,Government
+"City, Prague Open Data",Prague(CZ) City Open Data,Government
+"City, Toronto Open Data",Toronto (CA) City Open Data,Government
+Code.gov,The primary platform for Open Source and code sharing for the U.S. Federal Government,Government
+Colorado Information Marketplace,Colorado State Government Open Data,Government
+Data USA,US Public Data,Government
+Data.gov,US Government Data,Government
+Data.parliament.uk,"Contains live datasets including information about petitions, bills, MP votes, attendance and more",Government
+Deutscher Bundestag DIP,"This API provides read access to DIP entities (e.g. activities, persons, printed material)",Government
+District of Columbia Open Data,"Contains D.C. government public datasets, including crime, GIS, financial data, and so on",Government
+EPA,Web services and data sets from the US Environmental Protection Agency,Government
+FBI Wanted,Access information on the FBI Wanted program,Government
+FEC,Information on campaign donations in federal elections,Government
+Federal Register,The Daily Journal of the United States Government,Government
+Food Standards Agency,UK food hygiene rating data API,Government
+"Gazette Data, UK",UK official public record API,Government
+Gun Policy,International firearm injury prevention and policy,Government
+INEI,Peruvian Statistical Government Open Data,Government
+Interpol Red Notices,Access and search Interpol Red Notices,Government
+Istanbul (İBB) Open Data,Data sets from the İstanbul Metropolitan Municipality (İBB),Government
+"National Park Service, US",Data from the US National Park Service,Government
+"Open Government, ACT",Australian Capital Territory Open Data,Government
+"Open Government, Argentina",Argentina Government Open Data,Government
+"Open Government, Australia",Australian Government Open Data,Government
+"Open Government, Austria",Austria Government Open Data,Government
+"Open Government, Belgium",Belgium Government Open Data,Government
+"Open Government, Canada",Canadian Government Open Data,Government
+"Open Government, Colombia",Colombia Government Open Data,Government
+"Open Government, Cyprus",Cyprus Government Open Data,Government
+"Open Government, Czech Republic",Czech Republic Government Open Data,Government
+"Open Government, Denmark",Denmark Government Open Data,Government
+"Open Government, Estonia",Estonia Government Open Data,Government
+"Open Government, Finland",Finland Government Open Data,Government
+"Open Government, France",French Government Open Data,Government
+"Open Government, Germany",Germany Government Open Data,Government
+"Open Government, Greece",Greece Government Open Data,Government
+"Open Government, India",Indian Government Open Data,Government
+"Open Government, Ireland",Ireland Government Open Data,Government
+"Open Government, Italy",Italy Government Open Data,Government
+"Open Government, Korea",Korea Government Open Data,Government
+"Open Government, Lithuania",Lithuania Government Open Data,Government
+"Open Government, Luxembourg",Luxembourgish Government Open Data,Government
+"Open Government, Mexico",Mexican Statistical Government Open Data,Government
+"Open Government, Mexico",Mexico Government Open Data,Government
+"Open Government, Netherlands",Netherlands Government Open Data,Government
+"Open Government, New South Wales",New South Wales Government Open Data,Government
+"Open Government, New Zealand",New Zealand Government Open Data,Government
+"Open Government, Norway",Norwegian Government Open Data,Government
+"Open Government, Peru",Peru Government Open Data,Government
+"Open Government, Poland",Poland Government Open Data,Government
+"Open Government, Portugal",Portugal Government Open Data,Government
+"Open Government, Queensland Government",Queensland Government Open Data,Government
+"Open Government, Romania",Romania Government Open Data,Government
+"Open Government, Saudi Arabia",Saudi Arabia Government Open Data,Government
+"Open Government, Singapore",Singapore Government Open Data,Government
+"Open Government, Slovakia",Slovakia Government Open Data,Government
+"Open Government, Slovenia",Slovenia Government Open Data,Government
+"Open Government, South Australian Government",South Australian Government Open Data,Government
+"Open Government, Spain",Spain Government Open Data,Government
+"Open Government, Sweden",Sweden Government Open Data,Government
+"Open Government, Switzerland",Switzerland Government Open Data,Government
+"Open Government, Taiwan",Taiwan Government Open Data,Government
+"Open Government, Thailand",Thailand Government Open Data,Government
+"Open Government, UK",UK Government Open Data,Government
+"Open Government, USA",United States Government Open Data,Government
+"Open Government, Victoria State Government",Victoria State Government Open Data,Government
+"Open Government, West Australia",West Australia Open Data,Government
+PRC Exam Schedule,Unofficial Philippine Professional Regulation Commission's examination schedule,Government
+Represent by Open North,Find Canadian Government Representatives,Government
+UK Companies House,UK Companies House Data from the UK government,Government
+US Presidential Election Data by TogaTech,Basic candidate data and live electoral vote counts for top two parties in US presidential election,Government
+USA.gov,"Authoritative information on U.S. programs, events, services and more",Government
+USAspending.gov,US federal spending data,Government
+CMS.gov,Access to the data from the CMS - medicare.gov,Health
+Coronavirus,HTTP API for Latest Covid-19 Data,Health
+Coronavirus in the UK,"UK Government coronavirus data, including deaths and cases by region",Health
+Covid Tracking Project,Covid-19  data for the US,Health
+Covid-19,"Covid 19 spread, infection and recovery",Health
+Covid-19,"Covid 19 cases, deaths and recovery per country",Health
+Covid-19 Datenhub,"Maps, datasets, applications and more in the context of COVID-19",Health
+Covid-19 Government Response,Government measures tracker to fight against the Covid-19 pandemic,Health
+Covid-19 India,"Covid 19 statistics state and district wise about cases, vaccinations, recovery within India",Health
+Covid-19 JHU CSSE,Open-source API for exploring Covid19 cases based on JHU CSSE,Health
+Covid-19 Live Data,"Global and countrywise data of Covid 19 daily Summary, confirmed cases, recovered and deaths",Health
+Covid-19 Philippines,Unofficial Covid-19 Web API for Philippines from data collected by DOH,Health
+COVID-19 Tracker Canada,Details on Covid-19 cases across Canada,Health
+COVID-19 Tracker Sri Lanka,Provides situation of the COVID-19 patients reported in Sri Lanka,Health
+COVID-ID,Indonesian government Covid data per province,Health
+Dataflow Kit COVID-19,COVID-19 live statistics into sites per hour,Health
+FoodData Central,National Nutrient Database for Standard Reference,Health
+Healthcare.gov,Educational content about the US Health Insurance Marketplace,Health
+Humanitarian Data Exchange,Humanitarian Data Exchange (HDX) is open platform for sharing data across crises and organisations,Health
+Infermedica,NLP based symptom checker and patient triage API for health diagnosis from text,Health
+LAPIS,SARS-CoV-2 genomic sequences from public sources,Health
+Lexigram,"NLP that extracts mentions of clinical concepts from text, gives access to clinical ontology",Health
+Makeup,Makeup Information,Health
+MyVaccination,Vaccination data for Malaysia,Health
+NPPES,"National Plan & Provider Enumeration System, info on healthcare providers registered in US",Health
+Nutritionix,Worlds largest verified nutrition database,Health
+Open Data NHS Scotland,Medical reference data and statistics by Public Health Scotland,Health
+Open Disease,API for Current cases and more stuff about COVID-19 and Influenza,Health
+openFDA,"Public FDA data about drugs, devices and foods",Health
+Orion Health,Medical platform which allows the development of applications for different healthcare scenarios,Health
+Quarantine,Coronavirus API with free COVID-19 live updates,Health
+Adzuna,Job board aggregator,Jobs
+Arbeitnow,API for Job board aggregator in Europe / Remote,Jobs
+Arbeitsamt,"API for the ""Arbeitsamt"", which is a german Job board aggregator",Jobs
+Careerjet,Job search engine,Jobs
+DevITjobs UK,Jobs with GraphQL,Jobs
+Findwork,Job board,Jobs
+GraphQL Jobs,Jobs with GraphQL,Jobs
+Jobs2Careers,Job aggregator,Jobs
+Jooble,Job search engine,Jobs
+Juju,Job search engine,Jobs
+Open Skills,"Job titles, skills and related jobs data",Jobs
+Reed,Job board aggregator,Jobs
+The Muse,Job board and company profiles,Jobs
+Upwork,Freelance job board and management system,Jobs
+USAJOBS,US government job board,Jobs
+WhatJobs,Job search engine,Jobs
+ZipRecruiter,Job search app and website,Jobs
+AI For Thai,Free Various Thai AI API,Machine Learning
+Clarifai,Computer Vision,Machine Learning
+Cloudmersive,"Image captioning, face recognition, NSFW classification",Machine Learning
+Deepcode,AI for code review,Machine Learning
+Dialogflow,Natural Language Processing,Machine Learning
+EXUDE-API,"Used for the primary ways for filtering the stopping, stemming words from the text data",Machine Learning
+Hirak FaceAPI,"Face detection, face recognition with age estimation/gender estimation, accurate, no quota limits",Machine Learning
+Imagga,"Image Recognition Solutions like Tagging, Visual Search, NSFW moderation",Machine Learning
+Inferdo,"Computer Vision services like Facial detection, Image labeling, NSFW classification",Machine Learning
+IPS Online,Face and License Plate Anonymization,Machine Learning
+Irisnet,Realtime content moderation API that blocks or blurs unwanted images in real-time,Machine Learning
+Keen IO,Data Analytics,Machine Learning
+Machinetutors,"AI Solutions: Video/Image Classification & Tagging, NSFW, Icon/Image/Audio Search, NLP",Machine Learning
+MessengerX.io,A FREE API for developers to build and monetize personalized ML based chat apps,Machine Learning
+NLP Cloud,"NLP API using spaCy and transformers for NER, sentiments, classification, summarization, and more",Machine Learning
+OpenVisionAPI,Open source computer vision API based on open source models,Machine Learning
+Perspective,"NLP API to return probability that if text is toxic, obscene, insulting or threatening",Machine Learning
+Roboflow Universe,Pre-trained computer vision models,Machine Learning
+SkyBiometry,"Face Detection, Face Recognition and Face Grouping",Machine Learning
+Time Door,A time series analysis API,Machine Learning
+Unplugg,Forecasting API for timeseries data,Machine Learning
+WolframAlpha,Provides specific answers to questions using data and algorithms,Machine Learning
+7digital,Api of Music store 7digital,Music
+AI Mastering,Automated Music Mastering,Music
+Audiomack,Api of the streaming music hub Audiomack,Music
+Bandcamp,API of Music store Bandcamp,Music
+Bandsintown,Music Events,Music
+Deezer,Music,Music
+Discogs,Music,Music
+Freesound,Music Samples,Music
+Gaana,API to retrieve song information from Gaana,Music
+Genius,Crowdsourced lyrics and music knowledge,Music
+Genrenator,Music genre generator,Music
+iTunes Search,Software products,Music
+Jamendo,Music,Music
+JioSaavn,"API to retrieve song information, album meta data and many more from JioSaavn",Music
+KKBOX,"Get music libraries, playlists, charts, and perform out of KKBOX's platform",Music
+KSoft.Si Lyrics,API to get lyrics for songs,Music
+LastFm,Music,Music
+Lyrics.ovh,Simple API to retrieve the lyrics of a song,Music
+Mixcloud,Music,Music
+MusicBrainz,Music,Music
+Musixmatch,Music,Music
+Napster,Music,Music
+Openwhyd,"Download curated playlists of streaming tracks (YouTube, SoundCloud, etc...)",Music
+Phishin,A web-based archive of legal live audio recordings of the improvisational rock band Phish,Music
+Radio Browser,List of internet radio stations,Music
+Songkick,Music Events,Music
+Songlink / Odesli,Get all the services on which a song is available,Music
+Songsterr,"Provides guitar, bass and drums tabs and chords",Music
+SoundCloud,With SoundCloud API you can build applications that will give more power to control your content,Music
+Spotify,"View Spotify music catalog, manage users' libraries, get recommendations and more",Music
+TasteDive,Similar artist API (also works for movies and TV shows),Music
+TheAudioDB,Music,Music
+Vagalume,Crowdsourced lyrics and music knowledge,Music
+apilayer mediastack,"Free, Simple REST API for Live News & Blog Articles",News
+Associated Press,Search for news and metadata from Associated Press,News
+Chronicling America,Provides access to millions of pages of historic US newspapers from the Library of Congress,News
+Currents,"Latest news published in various news sources, blogs and forums",News
+Feedbin,RSS reader,News
+GNews,Search for news from various sources,News
+Graphs for Coronavirus,Each Country separately and Worldwide Graphs for Coronavirus. Daily updates,News
+Inshorts News,Provides news from inshorts,News
+MarketAux,Live stock market news with tagged tickers + sentiment and stats JSON API,News
+New York Times,The New York Times Developer Network,News
+News,Headlines currently published on a range of news sources and blogs,News
+NewsData,News data API for live-breaking news and headlines from reputed  news sources,News
+NewsX,Get or Search Latest Breaking News with ML Powered Summaries 🤖,News
+NPR One,Personalized news listening experience from NPR,News
+Spaceflight News,Spaceflight related news 🚀,News
+The Guardian,"Access all the content the Guardian creates, categorised by tags and section",News
+The Old Reader,RSS reader,News
+TheNews,"Aggregated headlines, top story and live news JSON API",News
+Trove,Search through the National Library of Australia collection of 1000s of digitised newspapers,News
+18F,Unofficial US Federal Government API Development,Open Data
+API Setu,"An Indian Government platform that provides a lot of APIS for KYC, business, education & employment",Open Data
+Archive.org,The Internet Archive,Open Data
+Black History Facts,Contribute or search one of the largest black history fact databases on the web,Open Data
+BotsArchive,JSON formatted details about Telegram Bots available in database,Open Data
+Callook.info,United States ham radio callsigns,Open Data
+CARTO,Location Information Prediction,Open Data
+CollegeScoreCard.ed.gov,Data on higher education institutions in the United States,Open Data
+Enigma Public,Broadest collection of public data,Open Data
+French Address Search,Address search via the French Government,Open Data
+GENESIS,Federal Statistical Office Germany,Open Data
+Joshua Project,People groups of the world with the fewest followers of Christ,Open Data
+Kaggle,"Create and interact with Datasets, Notebooks, and connect with Kaggle",Open Data
+LinkPreview,"Get JSON formatted summary with title, description and preview image for any requested URL",Open Data
+Lowy Asia Power Index,Get measure resources and influence to rank the relative power of states in Asia,Open Data
+Microlink.io,Extract structured data from any website,Open Data
+Nasdaq Data Link,Stock market data,Open Data
+Nobel Prize,Open data about nobel prizes and events,Open Data
+Open Data Minneapolis,Spatial (GIS) and non-spatial city data for Minneapolis,Open Data
+openAFRICA,Large datasets repository of African open data,Open Data
+OpenCorporates,Data on corporate entities and directors in many countries,Open Data
+OpenSanctions,"Data on international sanctions, crime and politically exposed persons",Open Data
+PeakMetrics,News articles and public datasets,Open Data
+Recreation Information Database,"Recreational areas, federal lands, historic sites, museums, and other attractions/resources(US)",Open Data
+Scoop.it,Content Curation Service,Open Data
+Socrata,"Access to Open Data from Governments, Non-profits and NGOs around the world",Open Data
+Teleport,Quality of Life Data,Open Data
+Umeå Open Data,Open data of the city Umeå in northen Sweden,Open Data
+Universities List,"University names, countries and domains",Open Data
+University of Oslo,"Courses, lecture videos, detailed information for courses etc. for the University of Oslo (Norway)",Open Data
+UPC database,More than 1.5 million barcode numbers from all around the world,Open Data
+Urban Observatory,The largest set of publicly available real time urban data in the UK,Open Data
+Wikidata,Collaboratively edited knowledge base operated by the Wikimedia Foundation,Open Data
+Wikipedia,Mediawiki Encyclopedia,Open Data
+Yelp,Find Local Business,Open Data
+Countly,Countly web analytics,Open Source Projects
+Creative Commons Catalog,Search among openly licensed and public domain works,Open Source Projects
+Datamuse,Word-finding query engine,Open Source Projects
+Drupal.org,Drupal.org,Open Source Projects
+Evil Insult Generator,Evil Insults,Open Source Projects
+GitHub Contribution Chart Generator,Create an image of your GitHub contributions,Open Source Projects
+GitHub ReadMe Stats,Add dynamically generated statistics to your GitHub profile ReadMe,Open Source Projects
+Metabase,An open source Business Intelligence server to share data and analytics inside your company,Open Source Projects
+Shields,"Concise, consistent, and legible badges in SVG and raster format",Open Source Projects
+EPO,European patent search system api,Patent
+PatentsView ,API is intended to explore and visualize trends/patterns across the US innovation landscape,Patent
+TIPO,Taiwan patent search system api,Patent
+USPTO,USA patent api services,Patent
+Advice Slip,Generate random advice slips,Personality
+Biriyani As A Service,Biriyani images placeholder,Personality
+Dev.to,"Access Forem articles, users and other resources via API",Personality
+Dictum,API to get access to the collection of the most inspiring expressions of mankind,Personality
+FavQs.com,"FavQs allows you to collect, discover and share your favorite quotes",Personality
+FOAAS,Fuck Off As A Service,Personality
+Forismatic,Inspirational Quotes,Personality
+icanhazdadjoke,The largest selection of dad jokes on the internet,Personality
+Inspiration,Motivational and Inspirational quotes,Personality
+kanye.rest,REST API for random Kanye West quotes,Personality
+kimiquotes,Team radio and interview quotes by Finnish F1 legend Kimi Räikkönen,Personality
+Medium,Community of readers and writers offering unique perspectives on ideas,Personality
+Programming Quotes,Programming Quotes API for open source projects,Personality
+Quotable Quotes,"Quotable is a free, open source quotations API",Personality
+Quote Garden,REST API for more than 5000 famous quotes,Personality
+quoteclear,Ever-growing list of James Clear quotes from the 3-2-1 Newsletter,Personality
+Quotes on Design,Inspirational Quotes,Personality
+Stoicism Quote,Quotes about Stoicism,Personality
+They Said So Quotes,Quotes Trusted by many fortune brands around the world,Personality
+Traitify,"Assess, collect and analyze Personality",Personality
+Udemy(instructor),API for instructors on Udemy,Personality
+Vadivelu HTTP Codes,On demand HTTP Codes with images,Personality
+Zen Quotes,Large collection of Zen quotes for inspiration,Personality
+Abstract Phone Validation,Validate phone numbers globally,Phone
+apilayer numverify,Phone number validation,Phone
+Cloudmersive Validate,Validate international phone numbers,Phone
+Phone Specification,Rest Api for Phone specifications,Phone
+Veriphone,Phone number validation & carrier lookup,Phone
+apilayer screenshotlayer,URL 2 Image,Photography
+APITemplate.io,Dynamically generate images and PDFs from templates with a simple API,Photography
+Bruzu,Image generation with query string,Photography
+CheetahO,Photo optimization and resize,Photography
+Dagpi,Image manipulation and processing,Photography
+Duply,"Generate, Edit, Scale and Manage Images and Videos Smarter & Faster",Photography
+DynaPictures,Generate Hundreds of Personalized Images in Minutes,Photography
+Flickr,Flickr Services,Photography
+Getty Images,Build applications using the world's most powerful imagery,Photography
+Gfycat,Jiffier GIFs,Photography
+Giphy,Get all your gifs,Photography
+Google Photos,Integrate Google Photos with your apps or devices,Photography
+Imgur,Images,Photography
+Imsea,Free image search,Photography
+Lorem Picsum,Images from Unsplash,Photography
+ObjectCut,Image Background removal,Photography
+Pexels,Free Stock Photos and Videos,Photography
+PhotoRoom,Remove background from images,Photography
+Pixabay,Photography,Photography
+PlaceKeanu,Resizable Keanu Reeves placeholder images with grayscale and young Keanu options,Photography
+Readme typing SVG,Customizable typing and deleting text SVG,Photography
+Remove.bg,Image Background removal,Photography
+ReSmush.it,Photo optimization,Photography
+shutterstock,Stock Photos and Videos,Photography
+Sirv,"Image management solutions like optimization, manipulation, hosting",Photography
+Unsplash,Photography,Photography
+Wallhaven,Wallpapers,Photography
+Webdam,Images,Photography
+Codeforces,Get access to Codeforces data,Programming
+Hackerearth,For compiling and running code in several languages,Programming
+Judge0 CE,Online code execution system,Programming
+KONTESTS,For upcoming and ongoing competitive coding contests,Programming
+Mintlify,For programmatically generating documentation for code,Programming
+arcsecond.io,Multiple astronomy data sources,Science & Math
+arXiv,"Curated research-sharing platform: physics, mathematics, quantitative finance, and economics",Science & Math
+CORE,Access the world's Open Access research papers,Science & Math
+GBIF,Global Biodiversity Information Facility,Science & Math
+iDigBio,Access millions of museum specimens from organizations around the world,Science & Math
+inspirehep.net,High Energy Physics info. system,Science & Math
+isEven (humor),Check if a number is even,Science & Math
+ISRO,ISRO Space Crafts Information,Science & Math
+ITIS,Integrated Taxonomic Information System,Science & Math
+Launch Library 2,Spaceflight launches and events database,Science & Math
+Materials Platform for Data Science,Curated experimental data for materials science,Science & Math
+Minor Planet Center,Asterank.com Information,Science & Math
+NASA,"NASA data, including imagery",Science & Math
+NASA ADS,NASA Astrophysics Data System,Science & Math
+Newton,Symbolic and Arithmetic Math Calculator,Science & Math
+Noctua,REST API used to access NoctuaSky features,Science & Math
+Numbers,"Number of the day, random number, number facts and anything else you want to do with numbers",Science & Math
+Numbers,Facts about numbers,Science & Math
+Ocean Facts,Facts pertaining to the physical science of Oceanography,Science & Math
+Open Notify,"ISS astronauts, current location, etc",Science & Math
+Open Science Framework,"Repository and archive for study designs, research materials, data, manuscripts, etc",Science & Math
+Purple Air,Real Time Air Quality Monitoring,Science & Math
+Remote Calc,Decodes base64 encoding and parses it to return a solution to the calculation in JSON,Science & Math
+SHARE,"A free, open, dataset about research and scholarly activities",Science & Math
+SpaceX,"Company, vehicle, launchpad and launch data",Science & Math
+SpaceX,"GraphQL, Company, Ships, launchpad and launch data",Science & Math
+Sunrise and Sunset,Sunset and sunrise times for a given latitude and longitude,Science & Math
+Times Adder,With this API you can add each of the times introduced in the array sended,Science & Math
+TLE,Satellite information,Science & Math
+USGS Earthquake Hazards Program,Earthquakes data real-time,Science & Math
+USGS Water Services,Water quality and level info for rivers and lakes,Science & Math
+World Bank,World Data,Science & Math
+xMath,Random mathematical expressions,Science & Math
+Application Environment Verification,"Android library and API to verify the safety of user devices, detect rooted devices and other risks",Security
+BinaryEdge,Provide access to BinaryEdge 40fy scanning platform,Security
+BitWarden,Best open-source password manager,Security
+Botd,Botd is a browser library for JavaScript bot detection,Security
+Bugcrowd,Bugcrowd API for interacting and tracking the reported issues programmatically,Security
+Censys,Search engine for Internet connected host and devices,Security
+Classify,Encrypting & decrypting text messages,Security
+Complete Criminal Checks,Provides data of offenders from all U.S. States and Pureto Rico,Security
+CRXcavator,Chrome extension risk scoring,Security
+Dehash.lt,"Hash decryption MD5, SHA1, SHA3, SHA256, SHA384, SHA512",Security
+EmailRep,Email address threat and risk prediction,Security
+Escape,An API for escaping different kind of queries,Security
+FilterLists,Lists of filters for adblockers and firewalls,Security
+FingerprintJS Pro,Fraud detection API offering highly accurate browser fingerprinting,Security
+FraudLabs Pro,Screen order information using AI to detect frauds,Security
+FullHunt,Searchable attack surface database of the entire internet,Security
+GitGuardian,"Scan files for secrets (API Keys, database credentials)",Security
+GreyNoise,Query IPs in the GreyNoise dataset and retrieve a subset of the full IP context data,Security
+HackerOne,The industry’s first hacker API that helps increase productivity towards creative bug bounty hunting,Security
+Hashable,A REST API to access high level cryptographic functions and methods,Security
+HaveIBeenPwned,Passwords which have previously been exposed in data breaches,Security
+Intelligence X,Perform OSINT via Intelligence X,Security
+LoginRadius,Managed User Authentication Service,Security
+Microsoft Security Response Center (MSRC),Programmatic interfaces to engage with the Microsoft Security Response Center (MSRC),Security
+Mozilla http scanner,Mozilla observatory http scanner,Security
+Mozilla tls scanner,Mozilla observatory tls scanner,Security
+National Vulnerability Database,U.S. National Vulnerability Database,Security
+Passwordinator,Generate random passwords of varying complexities,Security
+PhishStats,Phishing database,Security
+Privacy.com,Generate merchant-specific and one-time use credit card numbers that link back to your bank,Security
+Pulsedive,"Scan, search and collect threat intelligence data in real-time",Security
+SecurityTrails,Domain and IP related information such as current and historical WHOIS and DNS records,Security
+Shodan,Search engine for Internet connected devices,Security
+Spyse,Access data on all Internet assets and build powerful attack surface management applications,Security
+Threat Jammer,Risk scoring service from curated threat intelligence data,Security
+UK Police,UK Police data,Security
+Virushee,Virushee file/data scanning,Security
+VulDB,VulDB API allows to initiate queries for one or more items along with transactional bots,Security
+Best Buy,"Products, Buying Options, Categories, Recommendations, Stores and Commerce",Shopping
+Digi-Key,Retrieve price and inventory of electronic components as well as place orders,Shopping
+Dummy Products,An api to fetch dummy e-commerce products JSON data with placeholder images,Shopping
+eBay,Sell and Buy on eBay,Shopping
+Etsy,Manage shop and interact with listings,Shopping
+Flipkart Marketplace,"Product listing management, Order Fulfilment in the Flipkart Marketplace",Shopping
+Lazada,Retrieve product ratings and seller performance metrics,Shopping
+Mercadolibre,"Manage sales, ads, products, services and Shops",Shopping
+Octopart,"Electronic part data for manufacturing, design, and sourcing",Shopping
+OLX Poland,"Integrate with local sites by posting, managing adverts and communicating with OLX users",Shopping
+Rappi,Manage orders from Rappi's app,Shopping
+Shopee,Shopee's official API for integration of various services from Shopee,Shopping
+Tokopedia,Tokopedia's Official API for integration of various services from Tokopedia,Shopping
+WooCommerce,"WooCommerce REST APIS to create, read, update, and delete data on wordpress website in JSON format",Shopping
+4chan,Simple image-based bulletin board dedicated to a variety of topics,Social
+Ayrshare,"Social media APIs to post, get analytics, and manage multiple users social media accounts",Social
+aztro,"Daily horoscope info for yesterday, today, and tomorrow",Social
+Blogger,The Blogger APIs allows client applications to view and update Blogger content,Social
+Cisco Spark,Team Collaboration Software,Social
+Dangerous Discord Database,Database of malicious Discord accounts,Social
+Discord,"Make bots for Discord, integrate Discord onto an external platform",Social
+Disqus,Communicate with Disqus data,Social
+Doge-Meme,Top meme posts from r/dogecoin which include 'Meme' flair,Social
+Facebook,"Facebook Login, Share on FB, Social Plugins, Analytics and more",Social
+Foursquare,"Interact with Foursquare users and places (geolocation-based checkins, photos, tips, events, etc)",Social
+Fuck Off as a Service,Asks someone to fuck off,Social
+Full Contact,Get Social Media profiles and contact Information,Social
+HackerNews,Social news for CS and entrepreneurship,Social
+Hashnode,A blogging platform built for developers,Social
+Instagram,"Instagram Login, Share on Instagram, Social Plugins and more",Social
+Kakao,"Kakao Login, Share on KakaoTalk, Social Plugins and more",Social
+Lanyard,Retrieve your presence on Discord through an HTTP REST API or WebSocket,Social
+Line,"Line Login, Share on Line, Social Plugins and more",Social
+LinkedIn,The foundation of all digital integrations with LinkedIn,Social
+Meetup.com,Data about Meetups from Meetup.com,Social
+Microsoft Graph,"Access the data and intelligence in Microsoft 365, Windows 10, and Enterprise Mobility",Social
+NAVER,"NAVER Login, Share on NAVER, Social Plugins and more",Social
+Open Collective,Get Open Collective data,Social
+Pinterest,The world's catalog of ideas,Social
+Product Hunt,The best new products in tech,Social
+Reddit,Homepage of the internet,Social
+Revolt,Revolt open source Discord alternative,Social
+Saidit,Open Source Reddit Clone,Social
+Slack,Team Instant Messaging,Social
+TamTam,Bot API to interact with TamTam,Social
+Telegram Bot,Simplified HTTP version of the MTProto API for bots,Social
+Telegram MTProto,Read and write Telegram data,Social
+Telegraph,"Create attractive blogs easily, to share",Social
+TikTok,Fetches user info and user's video posts on TikTok platform,Social
+Trash Nothing,A freecycling community with thousands of free items posted every day,Social
+Tumblr,Read and write Tumblr Data,Social
+Twitch,Game Streaming API,Social
+Twitter,Read and write Twitter data,Social
+vk,Read and write vk data,Social
+API-FOOTBALL,Get information about Football Leagues & Cups,Sports & Fitness
+ApiMedic,ApiMedic offers a medical symptom checker API primarily for patients,Sports & Fitness
+balldontlie,Balldontlie provides access to stats data from the NBA,Sports & Fitness
+Canadian Football League (CFL),"Official JSON API providing real-time league, team and player statistics about the CFL",Sports & Fitness
+City Bikes,City Bikes around the world,Sports & Fitness
+Cloudbet,Official Cloudbet API provides real-time sports odds and betting API to place bets programmatically,Sports & Fitness
+CollegeFootballData.com,"Unofficial detailed American college football statistics, records, and results API",Sports & Fitness
+Ergast F1,F1 data from the beginning of the world championships in 1950,Sports & Fitness
+Fitbit,Fitbit Information,Sports & Fitness
+Football,"A simple Open Source Football API to get squads’ stats, best scorers and more",Sports & Fitness
+Football (Soccer) Videos,"Embed codes for goals and highlights from Premier League, Bundesliga, Serie A and many more",Sports & Fitness
+Football Standings,"Display football standings e.g epl, la liga, serie a etc. The data is based on espn site",Sports & Fitness
+Football-Data,"Football data with matches info, players, teams, and competitions",Sports & Fitness
+JCDecaux Bike,JCDecaux's self-service bicycles,Sports & Fitness
+MLB Records and Stats,Current and historical MLB statistics,Sports & Fitness
+NBA Data,"All NBA Stats DATA, Games, Livescore, Standings, Statistics",Sports & Fitness
+NBA Stats,Current and historical NBA Statistics,Sports & Fitness
+NHL Records and Stats,NHL historical data and statistics,Sports & Fitness
+Oddsmagnet,Odds history from multiple UK bookmakers,Sports & Fitness
+OpenLigaDB,Crowd sourced sports league results,Sports & Fitness
+Premier League Standings ,All Current Premier League Standings and Statistics,Sports & Fitness
+Sport Data,Get sports data from all over the world,Sports & Fitness
+Sport List & Data,List of and resources related to sports,Sports & Fitness
+Sport Places,Crowd-source sports places around the world,Sports & Fitness
+Sport Vision,"Identify sport, brands and gear in an image. Also does image sports captioning",Sports & Fitness
+Sportmonks Cricket,"Live cricket score, player statistics and fantasy API",Sports & Fitness
+Sportmonks Football,"Football score/schedule, news api, tv channels, stats, history, display standing e.g. epl, la liga",Sports & Fitness
+Squiggle,"Fixtures, results and predictions for Australian Football League matches",Sports & Fitness
+Strava,"Connect with athletes, activities and more",Sports & Fitness
+SuredBits,"Query sports data, including teams, players, games, scores and statistics",Sports & Fitness
+TheSportsDB,Crowd-Sourced Sports Data and Artwork,Sports & Fitness
+Tredict,"Get and set activities, health data and more",Sports & Fitness
+Wger,"Workout manager data as exercises, muscles or equipment",Sports & Fitness
+Bacon Ipsum,A Meatier Lorem Ipsum Generator,Test Data
+Dicebear Avatars,Generate random pixel-art avatars,Test Data
+English Random Words,Generate English Random Words with Pronunciation,Test Data
+FakeJSON,Service to generate test and fake data,Test Data
+FakerAPI,APIs collection to get fake data,Test Data
+FakeStoreAPI,Fake store rest API for your e-commerce or shopping website prototype,Test Data
+GeneradorDNI,"Data generator API. Profiles, vehicles, banks and cards, etc",Test Data
+ItsThisForThat,Generate Random startup ideas,Test Data
+JSONPlaceholder,Fake data for testing and prototyping,Test Data
+Loripsum,"The ""lorem ipsum"" generator that doesn't suck",Test Data
+Mailsac,Disposable Email,Test Data
+Metaphorsum,Generate demo paragraphs giving number of words and sentences,Test Data
+Mockaroo,"Generate fake data to JSON, CSV, TXT, SQL and XML",Test Data
+QuickMocker,"API mocking tool to generate contextual, fake or random data",Test Data
+Random Data,Random data generator,Test Data
+Randommer,Random data generator,Test Data
+RandomUser,Generates and list user data,Test Data
+RoboHash,Generate random robot/alien avatars,Test Data
+Spanish random names,Generate spanish names (with gender) randomly,Test Data
+Spanish random words,Generate spanish words randomly,Test Data
+This Person Does not Exist,Generates real-life faces of people who do not exist,Test Data
+Toolcarton,Generate random testimonial data,Test Data
+UUID Generator,Generate UUIDs,Test Data
+What The Commit,Random commit message generator,Test Data
+Yes No,Generate yes or no randomly,Test Data
+Code Detection API,"Detect, label, format and enrich the code in your app or in your data pipeline",Text Analysis
+apilayer languagelayer,Language Detection JSON API supporting 173 languages,Text Analysis
+Aylien Text Analysis,A collection of information retrieval and natural language APIs,Text Analysis
+Cloudmersive Natural Language Processing,Natural language processing and text analysis,Text Analysis
+Detect Language,Detects text language,Text Analysis
+ELI,Natural Language Processing Tools for Thai Language,Text Analysis
+Google Cloud Natural,"Natural language understanding technology, including sentiment, entity and syntax analysis",Text Analysis
+Hirak OCR,"Image to text -text recognition- from image more than 100 language, accurate, unlimited requests",Text Analysis
+Hirak Translation,"Translate between 21 of most used languages, accurate, unlimited requests",Text Analysis
+Lecto Translation,Translation API with free tier and reasonable prices,Text Analysis
+LibreTranslate,Translation tool with 17 available languages,Text Analysis
+Semantria,"Text Analytics with sentiment analysis, categorization & named entity extraction",Text Analysis
+Sentiment Analysis,Multilingual sentiment analysis of texts from different sources,Text Analysis
+Tisane,Text Analytics with focus on detection of abusive content and law enforcement applications,Text Analysis
+Watson Natural Language Understanding,Natural language processing for advanced text analysis,Text Analysis
+Aftership,"API to update, manage and track shipment efficiently",Tracking
+Correios,Integration to provide information and prepare shipments using Correio's services,Tracking
+Pixela,"API for recording and tracking habits or effort, routines",Tracking
+PostalPinCode,API for getting Pincode details in India,Tracking
+Postmon,"An API to query Brazilian ZIP codes and orders easily, quickly and free",Tracking
+PostNord,Provides information about parcels in transport for Sweden and Denmark,Tracking
+UPS,Shipment and Address information,Tracking
+WeCanTrack,Automatically place subids in affiliate links to attribute affiliate conversions to click data,Tracking
+WhatPulse,Small application that measures your keyboard/mouse usage,Tracking
+ADS-B Exchange,Access real-time and historical data of any and all airborne aircraft,Transportation
+airportsapi,Get name and website-URL for airports by ICAO code,Transportation
+AIS Hub,Real-time data of any marine and inland vessel equipped with AIS tracking system,Transportation
+Amadeus for Developers,Travel Search - Limited usage,Transportation
+apilayer aviationstack,Real-time Flight Status & Global Aviation Data API,Transportation
+AviationAPI,"FAA Aeronautical Charts and Publications, Airport Information, and Airport Weather",Transportation
+AZ511,Access traffic data from the ADOT API,Transportation
+Bay Area Rapid Transit,Stations and predicted arrivals for BART,Transportation
+BC Ferries,Sailing times and capacities for BC Ferries,Transportation
+BIC-Boxtech,Container technical detail for the global container fleet,Transportation
+BlaBlaCar,Search car sharing trips,Transportation
+Boston MBTA Transit,Stations and predicted arrivals for MBTA,Transportation
+Community Transit,Transitland API,Transportation
+Compare Flight Prices,API for comparing flight prices across platforms,Transportation
+CTS,CTS Realtime API,Transportation
+Grab,"Track deliveries, ride fares, payments and loyalty points",Transportation
+GraphHopper,A-to-B routing with turn-by-turn instructions,Transportation
+Icelandic APIs,Open APIs that deliver services in or regarding Iceland,Transportation
+Impala Hotel Bookings,"Hotel content, rates and room bookings",Transportation
+Izi,Audio guide for travellers,Transportation
+"Land Transport Authority DataMall, Singapore",Singapore transport information,Transportation
+Metro Lisboa,Delays in subway lines,Transportation
+Navitia,The open API for building cool stuff with transport data,Transportation
+Open Charge Map,Global public registry of electric vehicle charging locations,Transportation
+OpenSky Network,Free real-time ADS-B aviation data,Transportation
+Railway Transport for France,SNCF public API,Transportation
+REFUGE Restrooms,"Provides safe restroom access for transgender, intersex and gender nonconforming individuals",Transportation
+Sabre for Developers,Travel Search - Limited usage,Transportation
+Schiphol Airport,Schiphol,Transportation
+Tankerkoenig,German realtime gas/diesel prices,Transportation
+TransitLand,Transit Aggregation,Transportation
+"Transport for Atlanta, US",Marta,Transportation
+"Transport for Auckland, New Zealand",Auckland Transport,Transportation
+Transport for Belgium,The iRail API is a third-party API for Belgian public transport by train,Transportation
+"Transport for Berlin, Germany",Third-party VBB API,Transportation
+"Transport for Bordeaux, France",Bordeaux Métropole public transport and more (France),Transportation
+"Transport for Budapest, Hungary",Budapest public transport API,Transportation
+"Transport for Chicago, US",Chicago Transit Authority (CTA),Transportation
+Transport for Czech Republic,Czech transport API,Transportation
+"Transport for Denver, US",RTD,Transportation
+Transport for Finland,Finnish transport API,Transportation
+Transport for Germany,Deutsche Bahn (DB) API,Transportation
+"Transport for Grenoble, France",Grenoble public transport,Transportation
+"Transport for Hessen, Germany",RMV API (Public Transport in Hessen),Transportation
+"Transport for Honolulu, US",Honolulu Transportation Information,Transportation
+"Transport for Lisbon, Portugal","Data about buses routes, parking and traffic",Transportation
+"Transport for London, England",TfL API,Transportation
+"Transport for Los Angeles, US",Data about positions of Metro vehicles in real time and travel their routes,Transportation
+"Transport for Manchester, England",TfGM transport network data,Transportation
+Transport for Norway,Transport APIs and dataset for Norway,Transportation
+"Transport for Ottawa, Canada",OC Transpo API,Transportation
+"Transport for Paris, France",RATP Open Data API,Transportation
+"Transport for Philadelphia, US",SEPTA APIs,Transportation
+"Transport for Sao Paulo, Brazil",SPTrans,Transportation
+Transport for Spain,Public trains of Spain,Transportation
+Transport for Sweden,Public Transport consumer,Transportation
+Transport for Switzerland,Official Swiss Public Transport Open Data,Transportation
+Transport for Switzerland,Swiss public transport API,Transportation
+Transport for The Netherlands,"NS, only trains",Transportation
+Transport for The Netherlands,"OVAPI, country-wide public transport",Transportation
+"Transport for Toronto, Canada",TTC,Transportation
+Transport for UK,Transport API and dataset for UK,Transportation
+Transport for United States,NextBus API,Transportation
+"Transport for Vancouver, Canada",TransLink,Transportation
+"Transport for Washington, US",Washington Metro transport API,Transportation
+transport.rest,"Community maintained, developer-friendly public transport API",Transportation
+Tripadvisor,"Rating content for a hotel, restaurant, attraction or destination",Transportation
+Uber,Uber ride requests and price estimation,Transportation
+"Velib metropolis, Paris, France",Velib Open Data API,Transportation
+1pt,A simple URL shortener,URL Shorteners
+Bitly,URL shortener and link management,URL Shorteners
+CleanURI,URL shortener service,URL Shorteners
+ClickMeter,"Monitor, compare and optimize your marketing links",URL Shorteners
+Clico,URL shortener service,URL Shorteners
+Cutt.ly,URL shortener service,URL Shorteners
+Drivet URL Shortener,Shorten a long URL easily and fast,URL Shorteners
+Free Url Shortener,Free URL Shortener offers a powerful API to interact with other sites,URL Shorteners
+Git.io,Git.io URL shortener,URL Shorteners
+GoTiny,"A lightweight URL shortener, focused on ease-of-use for the developer and end-user",URL Shorteners
+Kutt,Free Modern URL Shortener,URL Shorteners
+Mgnet.me,Torrent URL shorten API,URL Shorteners
+owo,A simple link obfuscator/shortener,URL Shorteners
+Rebrandly,Custom URL shortener for sharing branded links,URL Shorteners
+Short Link,Short URLs support so many domains,URL Shorteners
+Shrtcode,URl Shortener with multiple Domains,URL Shorteners
+Shrtlnk,Simple and efficient short link creation,URL Shorteners
+TinyURL,Shorten long URLs,URL Shorteners
+UrlBae,Simple and efficient short link creation,URL Shorteners
+Brazilian Vehicles and Prices,Vehicles information from Fundação Instituto de Pesquisas Econômicas - Fipe,Vehicle
+Helipaddy sites,"Helicopter and passenger drone landing site directory, Helipaddy data and much more",Vehicle
+Kelley Blue Book,"Vehicle info, pricing, configuration, plus much more",Vehicle
+Mercedes-Benz,"Telematics data, remotely access vehicle functions, car configurator, locate service dealers",Vehicle
+NHTSA,NHTSA Product Information Catalog and Vehicle Listing,Vehicle
+Smartcar,Lock and unlock vehicles and get data like odometer reading and location. Works on most new cars,Vehicle
+An API of Ice And Fire,Game Of Thrones API,Video
+Bob's Burgers,Bob's Burgers API,Video
+Breaking Bad,Breaking Bad API,Video
+Breaking Bad Quotes,Some Breaking Bad quotes,Video
+Catalogopolis,Doctor Who API,Video
+Catch The Show,REST API for next-episode.net,Video
+Czech Television,TV programme of Czech TV,Video
+Dailymotion,Dailymotion Developer API,Video
+Dune,"A simple API which provides you with book, character, movie and quotes JSON data",Video
+Final Space,Final Space API,Video
+Game of Thrones Quotes,Some Game of Thrones quotes,Video
+Harry Potter Charactes,Harry Potter Characters Data with with imagery,Video
+IMDb-API,"API for receiving movie, serial and cast information",Video
+IMDbOT,Unofficial IMDb Movie / Series Information,Video
+JSON2Video,"Create and edit videos programmatically: watermarks,resizing,slideshows,voice-over,text animations",Video
+Lucifer Quotes,Returns Lucifer quotes,Video
+MCU Countdown,A Countdown to the next MCU Film,Video
+Motivational Quotes,Random Motivational Quotes,Video
+Movie Quote,Random Movie and Series Quotes,Video
+Open Movie Database,Movie information,Video
+Owen Wilson Wow,"API for actor Owen Wilson's ""wow"" exclamations in movies",Video
+Ron Swanson Quotes,Television,Video
+Simkl,"Movie, TV and Anime data",Video
+STAPI,Information on all things Star Trek,Video
+Stranger Things Quotes,Returns Stranger Things quotes,Video
+Stream,"Czech internet television, films, series and online videos for free",Video
+Stromberg Quotes,Returns Stromberg quotes and more,Video
+SWAPI,All the Star Wars data you've ever wanted,Video
+SWAPI,All things Star Wars,Video
+SWAPI GraphQL,Star Wars GraphQL API,Video
+The Lord of the Rings,The Lord of the Rings API,Video
+The Vampire Diaries,TV Show Data,Video
+ThronesApi,Game Of Thrones Characters Data with imagery,Video
+TMDb,Community-based movie data,Video
+TrailerAddict,Easily embed trailers from TrailerAddict,Video
+Trakt,Movie and TV Data,Video
+TVDB,Television data,Video
+TVMaze,TV Show Data,Video
+uNoGS,"Unofficial Netflix Online Global Search, Search all netflix regions in one place",Video
+Vimeo,Vimeo Developer API,Video
+Watchmode,API for finding out the streaming availability of movies & shows,Video
+Web Series Quotes Generator,API generates various Web Series Quote Images,Video
+YouTube,Add YouTube functionality to your sites and apps,Video
+7Timer!,"Weather, especially for Astroweather",Weather
+AccuWeather,Weather and forecast data,Weather
+Aemet,Weather and forecast data from Spain,Weather
+apilayer weatherstack,Real-Time & Historical World Weather Data API,Weather
+APIXU,Weather,Weather
+AQICN,Air Quality Index Data for over 1000 cities,Weather
+AviationWeather,NOAA aviation weather forecasts and observations,Weather
+ColorfulClouds,Weather,Weather
+Euskalmet,Meteorological data of the Basque Country,Weather
+Foreca,Weather,Weather
+HG Weather,Provides weather forecast data for cities in Brazil,Weather
+Hong Kong Obervatory,"Provide weather information, earthquake information, and climate data",Weather
+MetaWeather,Weather,Weather
+Meteorologisk Institutt,Weather and climate data,Weather
+Micro Weather,Real time weather forecasts and historic data,Weather
+ODWeather,Weather and weather webcams,Weather
+Oikolab,"70+ years of global, hourly historical and forecast weather data from NOAA and ECMWF",Weather
+Open-Meteo,Global weather forecast API for non-commercial use,Weather
+openSenseMap,Data from Personal Weather Stations called senseBoxes,Weather
+OpenUV,Real-time UV Index Forecast,Weather
+OpenWeatherMap,Weather,Weather
+QWeather,Location-based weather data,Weather
+RainViewer,Radar data collected from different websites across the Internet,Weather
+Storm Glass,Global marine weather from multiple sources,Weather
+Tomorrow,Weather API Powered by Proprietary Technology,Weather
+US Weather,US National Weather Service,Weather
+Visual Crossing,Global historical and weather forecast data,Weather
+weather-api,A RESTful free API to check the weather,Weather
+WeatherAPI,Weather API with other stuff like Astronomy and Geolocation API,Weather
+Weatherbit,Weather,Weather
+Yandex.Weather,Assesses weather condition in specific locations,Weather
